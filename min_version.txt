@@ -1,0 +1,2 @@
+Lowest Game Vault version that still starts. Game Vault reads this file when it starts.
+min=0.15.18.0
