@@ -1,2 +1,3 @@
-Lowest Game Vault version that still starts. Game Vault reads this file when it starts.
+Lowest Game Vault version that still starts (min=, raised only for a serious problem) and the newest release (latest=, shows a notice only). Game Vault reads this file when it starts.
 min=0.15.24.0
+latest=0.15.40.0
