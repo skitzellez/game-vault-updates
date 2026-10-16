@@ -1,3 +1,4 @@
-Game Vault reads this file when it starts. First number: the lowest version that still starts (raised only for a serious problem). Second number: the newest release (shows a notice only, blocks nothing).
+Game Vault reads this file when it starts. First number: the lowest version that still starts (raised only for a serious problem). Second number: the newest release (shows a notice only, blocks nothing). Third: the newest xemu (Game Vault 0.16.1.10 and newer offer it on the RT update screen).
 min=0.15.24.0
-latest=0.16.1.9
+latest=0.16.1.10
+latest_xemu=0.9.120.0
