@@ -1,0 +1,8 @@
+# Shared shader warm-up lists: <game ID> <size in bytes>. Game Vault fetches every list named here.
+AC-004 184092
+EA-091 156012
+IG-024 321372
+MS-003 249612
+MS-100 483612
+MW-033 199692
+VU-003 452412
