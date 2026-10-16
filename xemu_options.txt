@@ -1,0 +1,8 @@
+# Game Vault 0.16.1.5 and newer read this file when they start and pass these settings to xemu (original Xbox)
+# for every game. Only these lines are used, written exactly like this; anything else is ignored:
+#   widescreen=1      tell games the console is set to 16:9 (games that support it fill the TV)
+#   widescreen=0      tell games the console is set to 4:3
+#   fit=scale         keep the picture's shape (black bars at the sides for 4:3 games)
+#   fit=stretch       stretch the picture to fill the TV
+#   fit=center        show the picture at its own size in the middle
+# Nothing below: xemu's own settings are used.
