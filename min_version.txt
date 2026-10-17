@@ -1,6 +1,6 @@
 Game Vault reads this file when it starts. First number: the lowest version that still starts (raised only for a serious problem). Second number: the newest release (shows a notice only, blocks nothing). Then the newest xemu, RetroArch and XBSX2 builds (offered on the RT update screen).
 min=0.15.24.0
-latest=0.16.1.78
+latest=0.16.1.82
 latest_xemu=0.9.150.0
 latest_retroarch=1.22.2.18
 latest_xbsx2=2.0.9.7
