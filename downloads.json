@@ -13,11 +13,11 @@
   "skitzellez/xbox-game-vault v0.16.1.82": 19,
   "skitzellez/xemu-uwp uwp-0.9.146.0": 14,
   "skitzellez/xemu-uwp uwp-0.9.149.0": 10,
-  "skitzellez/xemu-uwp uwp-0.9.150.0": 48
+  "skitzellez/xemu-uwp uwp-0.9.150.0": 51
  },
  "totals": {
-  "all": 298,
-  "emulators": 227,
+  "all": 301,
+  "emulators": 230,
   "gamevault": 71
  }
 }
