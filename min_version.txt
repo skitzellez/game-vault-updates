@@ -4,3 +4,4 @@ latest=0.16.1.74
 latest_xemu=0.9.150.0
 latest_retroarch=1.22.2.18
 latest_xbsx2=2.0.9.7
+latest_dolphin=1.1.9.103
