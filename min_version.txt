@@ -1,7 +1,8 @@
-Game Vault reads this file when it starts. First number: the lowest version that still starts (raised only for a serious problem). Second number: the newest release (shows a notice only, blocks nothing). Then the newest xemu, RetroArch and XBSX2 builds (offered on the RT update screen).
+Game Vault reads this file when it starts. First number: the lowest version that still starts (raised only for a serious problem). Second number: the newest release (shows a notice only, blocks nothing). Then the newest xemu, RetroArch and XBSX2 builds (offered on the RT update screen). latest_android: the newest Game Vault for Android (notice only).
 min=0.15.24.0
 latest=0.16.1.102
 latest_xemu=0.9.195.0
 latest_retroarch=1.22.2.21
 latest_xbsx2=2.0.9.8
 latest_dolphin=1.1.9.105
+latest_android=0.1.0
