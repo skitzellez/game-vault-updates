@@ -2,24 +2,27 @@
  "note": "Highest download count seen per release (installer files only), kept after old releases are removed from GitHub. Written by downloads.py.",
  "releases": {
   "skitzellez/Dolphin-GameVault gv-1.1.9.103": 27,
-  "skitzellez/Dolphin-GameVault gv-1.1.9.105": 28,
+  "skitzellez/Dolphin-GameVault gv-1.1.9.105": 32,
+  "skitzellez/Dolphin-GameVault gv-1.1.9.107": 0,
   "skitzellez/RetroArch-GameVault android-1.22.2.25": 0,
   "skitzellez/RetroArch-GameVault gv-1.22.2.18": 40,
-  "skitzellez/RetroArch-GameVault gv-1.22.2.21": 34,
+  "skitzellez/RetroArch-GameVault gv-1.22.2.21": 36,
   "skitzellez/XBSX2-GameVault gv-2.0.9.6": 4,
   "skitzellez/XBSX2-GameVault gv-2.0.9.7": 40,
-  "skitzellez/XBSX2-GameVault gv-2.0.9.8": 35,
+  "skitzellez/XBSX2-GameVault gv-2.0.9.8": 37,
   "skitzellez/Xenia-GameVault gv-1.1.7.106": 9,
   "skitzellez/Xenia-GameVault gv-1.1.7.107": 51,
-  "skitzellez/Xenia-GameVault gv-1.1.7.109": 28,
+  "skitzellez/Xenia-GameVault gv-1.1.7.109": 30,
   "skitzellez/game-vault-android android-0.1.0": 0,
   "skitzellez/game-vault-android android-0.1.1": 0,
   "skitzellez/game-vault-android android-0.2.0": 0,
+  "skitzellez/game-vault-android android-0.2.2": 0,
   "skitzellez/xbox-game-vault mac-setup-beta-1": 5,
   "skitzellez/xbox-game-vault v0.16.1.100": 1,
   "skitzellez/xbox-game-vault v0.16.1.101": 1,
-  "skitzellez/xbox-game-vault v0.16.1.102": 69,
-  "skitzellez/xbox-game-vault v0.16.1.105": 0,
+  "skitzellez/xbox-game-vault v0.16.1.102": 71,
+  "skitzellez/xbox-game-vault v0.16.1.105": 7,
+  "skitzellez/xbox-game-vault v0.16.1.107": 0,
   "skitzellez/xbox-game-vault v0.16.1.76": 22,
   "skitzellez/xbox-game-vault v0.16.1.78": 25,
   "skitzellez/xbox-game-vault v0.16.1.82": 32,
@@ -34,12 +37,12 @@
   "skitzellez/xemu-uwp uwp-0.9.195.0": 6,
   "skitzellez/xemu-uwp uwp-0.9.197.0": 31,
   "skitzellez/xemu-uwp uwp-0.9.206.0": 7,
-  "skitzellez/xemu-uwp uwp-0.9.207.0": 0,
-  "skitzellez/xemu-uwp uwp-0.9.208.0": 0
+  "skitzellez/xemu-uwp uwp-0.9.207.0": 1,
+  "skitzellez/xemu-uwp uwp-0.9.208.0": 6
  },
  "totals": {
-  "all": 606,
-  "emulators": 424,
-  "gamevault": 182
+  "all": 632,
+  "emulators": 441,
+  "gamevault": 191
  }
 }
