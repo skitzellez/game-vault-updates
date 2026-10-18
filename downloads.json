@@ -2,18 +2,18 @@
  "note": "Highest download count seen per release (installer files only), kept after old releases are removed from GitHub. Written by downloads.py.",
  "releases": {
   "skitzellez/Dolphin-GameVault gv-1.1.9.103": 27,
-  "skitzellez/Dolphin-GameVault gv-1.1.9.105": 1,
+  "skitzellez/Dolphin-GameVault gv-1.1.9.105": 3,
   "skitzellez/RetroArch-GameVault gv-1.22.2.18": 40,
-  "skitzellez/RetroArch-GameVault gv-1.22.2.21": 5,
+  "skitzellez/RetroArch-GameVault gv-1.22.2.21": 6,
   "skitzellez/XBSX2-GameVault gv-2.0.9.6": 4,
   "skitzellez/XBSX2-GameVault gv-2.0.9.7": 40,
-  "skitzellez/XBSX2-GameVault gv-2.0.9.8": 11,
+  "skitzellez/XBSX2-GameVault gv-2.0.9.8": 12,
   "skitzellez/Xenia-GameVault gv-1.1.7.106": 9,
-  "skitzellez/Xenia-GameVault gv-1.1.7.107": 50,
+  "skitzellez/Xenia-GameVault gv-1.1.7.107": 51,
   "skitzellez/xbox-game-vault mac-setup-beta-1": 5,
-  "skitzellez/xbox-game-vault v0.16.1.100": 0,
-  "skitzellez/xbox-game-vault v0.16.1.101": 0,
-  "skitzellez/xbox-game-vault v0.16.1.102": 0,
+  "skitzellez/xbox-game-vault v0.16.1.100": 1,
+  "skitzellez/xbox-game-vault v0.16.1.101": 1,
+  "skitzellez/xbox-game-vault v0.16.1.102": 1,
   "skitzellez/xbox-game-vault v0.16.1.76": 22,
   "skitzellez/xbox-game-vault v0.16.1.78": 25,
   "skitzellez/xbox-game-vault v0.16.1.82": 32,
@@ -24,11 +24,12 @@
   "skitzellez/xbox-game-vault v0.16.1.96": 5,
   "skitzellez/xemu-uwp uwp-0.9.146.0": 14,
   "skitzellez/xemu-uwp uwp-0.9.149.0": 11,
-  "skitzellez/xemu-uwp uwp-0.9.150.0": 57
+  "skitzellez/xemu-uwp uwp-0.9.150.0": 59,
+  "skitzellez/xemu-uwp uwp-0.9.195.0": 0
  },
  "totals": {
-  "all": 380,
-  "emulators": 269,
-  "gamevault": 111
+  "all": 390,
+  "emulators": 276,
+  "gamevault": 114
  }
 }
