@@ -2,7 +2,7 @@
  "note": "Highest download count seen per release (installer files only), kept after old releases are removed from GitHub. Written by downloads.py.",
  "releases": {
   "skitzellez/Dolphin-GameVault gv-1.1.9.103": 27,
-  "skitzellez/Dolphin-GameVault gv-1.1.9.105": 0,
+  "skitzellez/Dolphin-GameVault gv-1.1.9.105": 1,
   "skitzellez/RetroArch-GameVault gv-1.22.2.18": 40,
   "skitzellez/RetroArch-GameVault gv-1.22.2.21": 5,
   "skitzellez/XBSX2-GameVault gv-2.0.9.6": 4,
@@ -21,11 +21,11 @@
   "skitzellez/xbox-game-vault v0.16.1.96": 0,
   "skitzellez/xemu-uwp uwp-0.9.146.0": 14,
   "skitzellez/xemu-uwp uwp-0.9.149.0": 11,
-  "skitzellez/xemu-uwp uwp-0.9.150.0": 56
+  "skitzellez/xemu-uwp uwp-0.9.150.0": 57
  },
  "totals": {
-  "all": 373,
-  "emulators": 267,
+  "all": 375,
+  "emulators": 269,
   "gamevault": 106
  }
 }
