@@ -11,6 +11,7 @@
   "skitzellez/Xenia-GameVault gv-1.1.7.106": 9,
   "skitzellez/Xenia-GameVault gv-1.1.7.107": 50,
   "skitzellez/xbox-game-vault mac-setup-beta-1": 5,
+  "skitzellez/xbox-game-vault v0.16.1.100": 0,
   "skitzellez/xbox-game-vault v0.16.1.76": 22,
   "skitzellez/xbox-game-vault v0.16.1.78": 25,
   "skitzellez/xbox-game-vault v0.16.1.82": 32,
@@ -18,14 +19,14 @@
   "skitzellez/xbox-game-vault v0.16.1.85": 8,
   "skitzellez/xbox-game-vault v0.16.1.89": 3,
   "skitzellez/xbox-game-vault v0.16.1.90": 8,
-  "skitzellez/xbox-game-vault v0.16.1.96": 0,
+  "skitzellez/xbox-game-vault v0.16.1.96": 4,
   "skitzellez/xemu-uwp uwp-0.9.146.0": 14,
   "skitzellez/xemu-uwp uwp-0.9.149.0": 11,
   "skitzellez/xemu-uwp uwp-0.9.150.0": 57
  },
  "totals": {
-  "all": 375,
+  "all": 379,
   "emulators": 269,
-  "gamevault": 106
+  "gamevault": 110
  }
 }
