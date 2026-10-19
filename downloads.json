@@ -15,7 +15,7 @@
   "skitzellez/RetroArch-GameVault gv-1.22.2.37": 0,
   "skitzellez/RetroArch-GameVault gv-1.22.2.38": 0,
   "skitzellez/RetroArch-GameVault gv-1.22.2.39": 6,
-  "skitzellez/RetroArch-GameVault gv-1.22.2.40": 0,
+  "skitzellez/RetroArch-GameVault gv-1.22.2.40": 1,
   "skitzellez/XBSX2-GameVault gv-2.0.9.6": 4,
   "skitzellez/XBSX2-GameVault gv-2.0.9.7": 40,
   "skitzellez/XBSX2-GameVault gv-2.0.9.8": 62,
@@ -51,8 +51,9 @@
   "skitzellez/xbox-game-vault v0.16.1.146": 1,
   "skitzellez/xbox-game-vault v0.16.1.147": 9,
   "skitzellez/xbox-game-vault v0.16.1.148": 3,
-  "skitzellez/xbox-game-vault v0.16.1.150": 0,
-  "skitzellez/xbox-game-vault v0.16.1.151": 0,
+  "skitzellez/xbox-game-vault v0.16.1.150": 1,
+  "skitzellez/xbox-game-vault v0.16.1.151": 1,
+  "skitzellez/xbox-game-vault v0.16.1.153": 0,
   "skitzellez/xbox-game-vault v0.16.1.76": 22,
   "skitzellez/xbox-game-vault v0.16.1.78": 25,
   "skitzellez/xbox-game-vault v0.16.1.82": 32,
@@ -73,11 +74,11 @@
   "skitzellez/xemu-uwp uwp-0.9.217.0": 3,
   "skitzellez/xemu-uwp uwp-0.9.223.0": 3,
   "skitzellez/xemu-uwp uwp-0.9.224.0": 4,
-  "skitzellez/xemu-uwp uwp-0.9.225.0": 0
+  "skitzellez/xemu-uwp uwp-0.9.225.0": 1
  },
  "totals": {
-  "all": 1003,
-  "emulators": 673,
-  "gamevault": 330
+  "all": 1007,
+  "emulators": 675,
+  "gamevault": 332
  }
 }
