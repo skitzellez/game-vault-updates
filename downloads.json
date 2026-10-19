@@ -6,7 +6,7 @@
   "skitzellez/Dolphin-GameVault gv-1.1.9.107": 32,
   "skitzellez/Dolphin-GameVault gv-1.1.9.109": 9,
   "skitzellez/Dolphin-GameVault gv-1.1.9.110": 6,
-  "skitzellez/Dolphin-GameVault gv-1.1.9.111": 0,
+  "skitzellez/Dolphin-GameVault gv-1.1.9.111": 1,
   "skitzellez/RetroArch-GameVault android-1.22.2.25": 0,
   "skitzellez/RetroArch-GameVault android-1.22.2.26": 0,
   "skitzellez/RetroArch-GameVault gv-1.22.2.18": 40,
@@ -17,8 +17,8 @@
   "skitzellez/RetroArch-GameVault gv-1.22.2.38": 0,
   "skitzellez/RetroArch-GameVault gv-1.22.2.39": 6,
   "skitzellez/RetroArch-GameVault gv-1.22.2.40": 5,
-  "skitzellez/RetroArch-GameVault gv-1.22.2.41": 0,
-  "skitzellez/XBSX2-GameVault gv-2.0.9.12": 2,
+  "skitzellez/RetroArch-GameVault gv-1.22.2.41": 1,
+  "skitzellez/XBSX2-GameVault gv-2.0.9.12": 3,
   "skitzellez/XBSX2-GameVault gv-2.0.9.6": 4,
   "skitzellez/XBSX2-GameVault gv-2.0.9.7": 40,
   "skitzellez/XBSX2-GameVault gv-2.0.9.8": 63,
@@ -31,7 +31,8 @@
   "skitzellez/Xenia-GameVault gv-1.1.7.114": 4,
   "skitzellez/Xenia-GameVault gv-1.1.7.118": 12,
   "skitzellez/Xenia-GameVault gv-1.1.7.123": 15,
-  "skitzellez/Xenia-GameVault gv-1.1.7.124": 0,
+  "skitzellez/Xenia-GameVault gv-1.1.7.124": 1,
+  "skitzellez/Xenia-GameVault gv-1.1.7.125": 0,
   "skitzellez/game-vault-android android-0.1.0": 0,
   "skitzellez/game-vault-android android-0.1.1": 0,
   "skitzellez/game-vault-android android-0.2.0": 0,
@@ -59,7 +60,7 @@
   "skitzellez/xbox-game-vault v0.16.1.151": 2,
   "skitzellez/xbox-game-vault v0.16.1.153": 3,
   "skitzellez/xbox-game-vault v0.16.1.154": 9,
-  "skitzellez/xbox-game-vault v0.16.1.160": 3,
+  "skitzellez/xbox-game-vault v0.16.1.160": 9,
   "skitzellez/xbox-game-vault v0.16.1.76": 22,
   "skitzellez/xbox-game-vault v0.16.1.78": 25,
   "skitzellez/xbox-game-vault v0.16.1.82": 32,
@@ -81,11 +82,11 @@
   "skitzellez/xemu-uwp uwp-0.9.223.0": 3,
   "skitzellez/xemu-uwp uwp-0.9.224.0": 5,
   "skitzellez/xemu-uwp uwp-0.9.225.0": 10,
-  "skitzellez/xemu-uwp uwp-0.9.226.0": 0
+  "skitzellez/xemu-uwp uwp-0.9.226.0": 2
  },
  "totals": {
-  "all": 1051,
-  "emulators": 703,
-  "gamevault": 348
+  "all": 1063,
+  "emulators": 709,
+  "gamevault": 354
  }
 }
