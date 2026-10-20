@@ -23,10 +23,10 @@
   "skitzellez/RetroArch-GameVault gv-1.22.2.41": 24,
   "skitzellez/RetroArch-GameVault gv-1.22.2.43": 13,
   "skitzellez/RetroArch-GameVault gv-1.22.2.46": 31,
-  "skitzellez/RetroArch-GameVault gv-1.22.2.47": 2,
+  "skitzellez/RetroArch-GameVault gv-1.22.2.47": 6,
   "skitzellez/XBSX2-GameVault gv-2.0.9.12": 46,
   "skitzellez/XBSX2-GameVault gv-2.0.9.13": 15,
-  "skitzellez/XBSX2-GameVault gv-2.0.9.14": 0,
+  "skitzellez/XBSX2-GameVault gv-2.0.9.14": 2,
   "skitzellez/XBSX2-GameVault gv-2.0.9.6": 4,
   "skitzellez/XBSX2-GameVault gv-2.0.9.7": 40,
   "skitzellez/XBSX2-GameVault gv-2.0.9.8": 63,
@@ -41,7 +41,7 @@
   "skitzellez/Xenia-GameVault gv-1.1.7.123": 15,
   "skitzellez/Xenia-GameVault gv-1.1.7.124": 2,
   "skitzellez/Xenia-GameVault gv-1.1.7.125": 15,
-  "skitzellez/Xenia-GameVault gv-1.1.7.126": 42,
+  "skitzellez/Xenia-GameVault gv-1.1.7.126": 44,
   "skitzellez/game-vault-android android-0.1.0": 0,
   "skitzellez/game-vault-android android-0.1.1": 0,
   "skitzellez/game-vault-android android-0.2.0": 0,
@@ -49,7 +49,7 @@
   "skitzellez/game-vault-android android-0.2.3": 0,
   "skitzellez/game-vault-android android-0.2.4": 0,
   "skitzellez/game-vault-android android-0.2.5": 0,
-  "skitzellez/xbox-game-vault mac-setup-beta-1": 7,
+  "skitzellez/xbox-game-vault mac-setup-beta-1": 9,
   "skitzellez/xbox-game-vault v0.16.1.100": 1,
   "skitzellez/xbox-game-vault v0.16.1.101": 1,
   "skitzellez/xbox-game-vault v0.16.1.102": 71,
@@ -76,8 +76,9 @@
   "skitzellez/xbox-game-vault v0.16.1.169": 36,
   "skitzellez/xbox-game-vault v0.16.1.176": 52,
   "skitzellez/xbox-game-vault v0.16.1.177": 2,
-  "skitzellez/xbox-game-vault v0.16.1.178": 38,
-  "skitzellez/xbox-game-vault v0.16.1.180": 0,
+  "skitzellez/xbox-game-vault v0.16.1.178": 39,
+  "skitzellez/xbox-game-vault v0.16.1.180": 6,
+  "skitzellez/xbox-game-vault v0.16.1.182": 0,
   "skitzellez/xbox-game-vault v0.16.1.76": 22,
   "skitzellez/xbox-game-vault v0.16.1.78": 25,
   "skitzellez/xbox-game-vault v0.16.1.82": 32,
@@ -106,8 +107,8 @@
   "skitzellez/xemu-uwp uwp-0.9.244.0": 32
  },
  "totals": {
-  "all": 1557,
-  "emulators": 1047,
-  "gamevault": 510
+  "all": 1574,
+  "emulators": 1055,
+  "gamevault": 519
  }
 }
