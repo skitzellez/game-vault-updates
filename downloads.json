@@ -49,6 +49,7 @@
   "skitzellez/game-vault-android android-0.2.3": 0,
   "skitzellez/game-vault-android android-0.2.4": 0,
   "skitzellez/game-vault-android android-0.2.5": 0,
+  "skitzellez/game-vault-android android-0.3.0": 0,
   "skitzellez/xbox-game-vault mac-setup-beta-1": 9,
   "skitzellez/xbox-game-vault v0.16.1.100": 1,
   "skitzellez/xbox-game-vault v0.16.1.101": 1,
@@ -78,7 +79,7 @@
   "skitzellez/xbox-game-vault v0.16.1.177": 2,
   "skitzellez/xbox-game-vault v0.16.1.178": 39,
   "skitzellez/xbox-game-vault v0.16.1.180": 7,
-  "skitzellez/xbox-game-vault v0.16.1.182": 37,
+  "skitzellez/xbox-game-vault v0.16.1.182": 38,
   "skitzellez/xbox-game-vault v0.16.1.76": 22,
   "skitzellez/xbox-game-vault v0.16.1.78": 25,
   "skitzellez/xbox-game-vault v0.16.1.82": 32,
@@ -106,11 +107,11 @@
   "skitzellez/xemu-uwp uwp-0.9.243.0": 2,
   "skitzellez/xemu-uwp uwp-0.9.244.0": 47,
   "skitzellez/xemu-uwp uwp-0.9.911.0": 0,
-  "skitzellez/xemu-uwp uwp-0.9.920.0": 0
+  "skitzellez/xemu-uwp uwp-0.9.920.0": 3
  },
  "totals": {
-  "all": 1682,
-  "emulators": 1125,
-  "gamevault": 557
+  "all": 1686,
+  "emulators": 1128,
+  "gamevault": 558
  }
 }
