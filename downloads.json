@@ -9,7 +9,7 @@
   "skitzellez/Dolphin-GameVault gv-1.1.9.111": 26,
   "skitzellez/Dolphin-GameVault gv-1.1.9.112": 52,
   "skitzellez/Dolphin-GameVault gv-1.1.9.119": 25,
-  "skitzellez/Dolphin-GameVault gv-1.1.9.120": 12,
+  "skitzellez/Dolphin-GameVault gv-1.1.9.120": 23,
   "skitzellez/RetroArch-GameVault android-1.22.2.25": 0,
   "skitzellez/RetroArch-GameVault android-1.22.2.26": 0,
   "skitzellez/RetroArch-GameVault android-1.22.2.27": 0,
@@ -32,7 +32,7 @@
   "skitzellez/XBSX2-GameVault gv-2.0.9.12": 46,
   "skitzellez/XBSX2-GameVault gv-2.0.9.13": 15,
   "skitzellez/XBSX2-GameVault gv-2.0.9.14": 33,
-  "skitzellez/XBSX2-GameVault gv-2.0.9.16": 32,
+  "skitzellez/XBSX2-GameVault gv-2.0.9.16": 39,
   "skitzellez/XBSX2-GameVault gv-2.0.9.6": 4,
   "skitzellez/XBSX2-GameVault gv-2.0.9.7": 40,
   "skitzellez/XBSX2-GameVault gv-2.0.9.8": 63,
@@ -57,7 +57,7 @@
   "skitzellez/game-vault-android android-0.2.5": 0,
   "skitzellez/game-vault-android android-0.3.0": 0,
   "skitzellez/game-vault-android android-0.4.0": 0,
-  "skitzellez/xbox-game-vault mac-setup-beta-1": 10,
+  "skitzellez/xbox-game-vault mac-setup-beta-1": 11,
   "skitzellez/xbox-game-vault v0.16.1.100": 1,
   "skitzellez/xbox-game-vault v0.16.1.101": 1,
   "skitzellez/xbox-game-vault v0.16.1.102": 71,
@@ -91,7 +91,8 @@
   "skitzellez/xbox-game-vault v0.16.1.199": 53,
   "skitzellez/xbox-game-vault v0.16.1.202": 11,
   "skitzellez/xbox-game-vault v0.16.1.215": 17,
-  "skitzellez/xbox-game-vault v0.16.1.231": 15,
+  "skitzellez/xbox-game-vault v0.16.1.231": 40,
+  "skitzellez/xbox-game-vault v0.16.1.238": 0,
   "skitzellez/xbox-game-vault v0.16.1.76": 22,
   "skitzellez/xbox-game-vault v0.16.1.78": 25,
   "skitzellez/xbox-game-vault v0.16.1.82": 32,
@@ -128,11 +129,12 @@
   "skitzellez/xemu-uwp uwp-0.9.955.0": 10,
   "skitzellez/xemu-uwp uwp-0.9.962.0": 9,
   "skitzellez/xemu-uwp uwp-0.9.966.0": 11,
-  "skitzellez/xemu-uwp uwp-0.9.977.0": 0
+  "skitzellez/xemu-uwp uwp-0.9.977.0": 27,
+  "skitzellez/xemu-uwp uwp-0.9.981.0": 0
  },
  "totals": {
-  "all": 2023,
-  "emulators": 1360,
-  "gamevault": 663
+  "all": 2094,
+  "emulators": 1405,
+  "gamevault": 689
  }
 }
