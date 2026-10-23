@@ -1,7 +1,7 @@
 Game Vault reads this file when it starts. First number: the lowest version that still starts (raised only for a serious problem). Second number: the newest release (shows a notice only, blocks nothing). Then the newest xemu, RetroArch and XBSX2 builds (offered on the RT update screen). latest_android: the newest Game Vault for Android, latest_retroarch_android: the newest RetroArch for Game Vault for Android, latest_xbox_android: the newest X1 BOX for Game Vault (notices only; the player taps to install). major= / major_<emulator>=: the newest BIG release (Game Vault 0.16.1.141+ pops up a notice only when this is newer than what is installed; smaller releases show only the RT badge). major_note= (major_note_pt/es/fr/de/it=): one line in that notice about what the big release brings.
 min=0.15.24.0
 latest=0.16.1.246
-latest_xemu=0.9.986.0
+latest_xemu=0.9.988.0
 latest_retroarch=1.22.2.51
 latest_xbsx2=2.0.9.17
 latest_dolphin=1.1.9.121
