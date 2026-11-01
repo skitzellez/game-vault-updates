@@ -161,8 +161,9 @@
   "skitzellez/xemu-uwp uwp-0.9.1004.0": 30,
   "skitzellez/xemu-uwp uwp-0.9.1005.0": 38,
   "skitzellez/xemu-uwp uwp-0.9.1006.0": 18,
-  "skitzellez/xemu-uwp uwp-0.9.1007.0": 32,
-  "skitzellez/xemu-uwp uwp-0.9.1008.0": 0,
+  "skitzellez/xemu-uwp uwp-0.9.1007.0": 33,
+  "skitzellez/xemu-uwp uwp-0.9.1008.0": 4,
+  "skitzellez/xemu-uwp uwp-0.9.1009.0": 0,
   "skitzellez/xemu-uwp uwp-0.9.146.0": 14,
   "skitzellez/xemu-uwp uwp-0.9.149.0": 11,
   "skitzellez/xemu-uwp uwp-0.9.150.0": 59,
@@ -203,8 +204,8 @@
   "skitzellez/xemu-uwp uwp-0.9.999.0": 15
  },
  "totals": {
-  "all": 3941,
-  "emulators": 2585,
+  "all": 3946,
+  "emulators": 2590,
   "gamevault": 1356
  }
 }
