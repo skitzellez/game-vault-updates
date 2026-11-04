@@ -77,7 +77,7 @@
   "skitzellez/Xenia-GameVault gv-1.1.8.229": 23,
   "skitzellez/Xenia-GameVault gv-1.1.8.230": 3,
   "skitzellez/Xenia-GameVault gv-1.1.8.231": 7,
-  "skitzellez/Xenia-GameVault gv-1.1.8.233": 10,
+  "skitzellez/Xenia-GameVault gv-1.1.8.233": 11,
   "skitzellez/Xenia-GameVault gv-1.1.8.5": 30,
   "skitzellez/Xenia-GameVault gv-1.1.8.66": 16,
   "skitzellez/Xenia-GameVault test-1.1.8.3": 4,
@@ -224,8 +224,8 @@
   "skitzellez/xemu-uwp uwp-0.9.999.0": 15
  },
  "totals": {
-  "all": 4352,
-  "emulators": 2830,
+  "all": 4353,
+  "emulators": 2831,
   "gamevault": 1522
  }
 }
