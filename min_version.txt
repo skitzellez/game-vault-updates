@@ -10,6 +10,7 @@ latest_cemu=0.2.6.109
 latest_flash=0.1.0.9
 latest_openbor=0.1.0.15
 latest_flycast=0.1.0.7
+latest_rpcs3=0.1.35.1603
 latest_android=0.4.2
 latest_retroarch_android=1.22.2.82
 latest_xbox_android=1.3.0.1
