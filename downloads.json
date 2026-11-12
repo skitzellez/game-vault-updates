@@ -90,7 +90,7 @@
   "skitzellez/Xenia-GameVault gv-1.1.8.270": 31,
   "skitzellez/Xenia-GameVault gv-1.1.8.288": 15,
   "skitzellez/Xenia-GameVault gv-1.1.8.301": 11,
-  "skitzellez/Xenia-GameVault gv-1.1.8.306": 17,
+  "skitzellez/Xenia-GameVault gv-1.1.8.306": 20,
   "skitzellez/Xenia-GameVault gv-1.1.8.5": 30,
   "skitzellez/Xenia-GameVault gv-1.1.8.66": 16,
   "skitzellez/Xenia-GameVault test-1.1.8.235": 4,
@@ -113,7 +113,7 @@
   "skitzellez/game-vault-android android-0.4.2": 0,
   "skitzellez/game-vault-android test-ps2-0.4.1": 0,
   "skitzellez/xbox-game-vault mac-setup-beta-1": 15,
-  "skitzellez/xbox-game-vault runtime-vclibs": 271,
+  "skitzellez/xbox-game-vault runtime-vclibs": 273,
   "skitzellez/xbox-game-vault test-0.16.1.347": 3,
   "skitzellez/xbox-game-vault test-0.16.1.416": 4,
   "skitzellez/xbox-game-vault test-0.16.1.419": 4,
@@ -198,8 +198,9 @@
   "skitzellez/xbox-game-vault v0.16.1.432": 8,
   "skitzellez/xbox-game-vault v0.16.1.435": 136,
   "skitzellez/xbox-game-vault v0.16.1.476": 2,
-  "skitzellez/xbox-game-vault v0.16.1.477": 20,
-  "skitzellez/xbox-game-vault v0.16.1.478": 0,
+  "skitzellez/xbox-game-vault v0.16.1.477": 23,
+  "skitzellez/xbox-game-vault v0.16.1.478": 11,
+  "skitzellez/xbox-game-vault v0.16.1.481": 0,
   "skitzellez/xbox-game-vault v0.16.1.76": 22,
   "skitzellez/xbox-game-vault v0.16.1.78": 25,
   "skitzellez/xbox-game-vault v0.16.1.82": 32,
@@ -226,7 +227,7 @@
   "skitzellez/xemu-uwp uwp-0.9.1010.0": 63,
   "skitzellez/xemu-uwp uwp-0.9.1013.0": 55,
   "skitzellez/xemu-uwp uwp-0.9.1015.0": 101,
-  "skitzellez/xemu-uwp uwp-0.9.1017.0": 93,
+  "skitzellez/xemu-uwp uwp-0.9.1017.0": 96,
   "skitzellez/xemu-uwp uwp-0.9.146.0": 14,
   "skitzellez/xemu-uwp uwp-0.9.149.0": 11,
   "skitzellez/xemu-uwp uwp-0.9.150.0": 59,
@@ -267,8 +268,8 @@
   "skitzellez/xemu-uwp uwp-0.9.999.0": 15
  },
  "totals": {
-  "all": 5758,
-  "emulators": 3741,
-  "gamevault": 2017
+  "all": 5780,
+  "emulators": 3747,
+  "gamevault": 2033
  }
 }
