@@ -1,0 +1,46 @@
+2nd space	az	1993	1	0	39	41	2nd Space is Amidar clone - the player controls robots and must reveal the image - to do this, he travels the borders of rectangles. He must also avoid opponents.
+aerial	s	2024	1	0	0	0	Aerial is a side scrolling shoot 'em up by Inufuto.
+ant soldiers	z	1993	1	0	32	12	Ant Soldiers is a puzzle game, developed by Sachen and published by Timlex International Limited, which was released in 1993.
+arctic zone	z	1993	1	0	26	17	Artic Zone is a puzzle game, developed by Commin and published by Timlex International Limited, which was released in 1993.
+armour force	s	1993	1	0	29	22	Armour Force is an Space battle game (horizontal shmup), developed by Commin and published by Timlex International Limited, which was released in 1993.
+artic zone	z	1993	1	0	26	17	Artic Zone is a puzzle game, developed by Commin and published by Timlex International Limited, which was released in 1993.
+battlot	s	2024	1	0	0	0	A port of Battlot to the Mega Duck.
+battlot mini	s	2024	1	0	0	0	A port of Battlot to the Mega Duck.
+beast fighter	b	1993	1	0	35	13	Beast Fighter is a beat 'em up, developed by Sachen and published by Timlex International Limited, which was released in 1993.
+black castle	p	2021	1	0	0	0	A port of Black Castle to the Mega Duck.
+black forest tale	v	1993	1	0	29	11	Black Forest Tale is an Adventure game, developed by Commin and published by Timlex International Limited, which was released in 1993.
+bomb disposer	z	1993	1	0	30	15	Bomb Disposer is a puzzle game, developed by Commin and published by Timlex International Limited, which was released in 1993.
+brick wall	s	1993	1	0	36	7	The Brick Wall is a shooter game, developed and published by Timlex International Limited, which was released in 1993.
+cacorm mini	a	2024	1	0	0	0	
+canyon racer	c	2023	1	0	0	0	A very simple, kinda hard mini game with cool FX and music. To set expectations properly- this is intended more as a tech demo than a fully realized game. Guide the racer through canyon walls and over rocks without crashing. Create Save States and Rewind to them after crashing (both actions use up a Life).
+captain knick knack	s	1993	1	0	31	12	Captain Knick Knack is a Shooting game (vertical shmup), developed by Sachen and published by Timlex International Limited, which was released in 1993.
+commin 5 in 1		1993	1	0	29	15	Five in One is compilation of games, developed by Commin and published by Timlex International Limited, which was released in 1993.
+duck adventure	a	1993	1	0	40	10	In the beginning, the world of the duck consists of pure happiness. But one day the world is suddenly ruled by a devil who has four helpers. Now the duck wants to resist the devil to bring the world back full of happiness.
+duck adventures	a	1993	1	0	40	10	In the beginning, the world of the duck consists of pure happiness. But one day the world is suddenly ruled by a devil who has four helpers. Now the duck wants to resist the devil to bring the world back full of happiness.
+duck duck wordyl	z	2022	1	0	0	0	A Wordle clone for Mega Duck
+five in one		1993	1	0	29	15	Five in One is compilation of games, developed by Commin and published by Timlex International Limited, which was released in 1993.
+four in one		1993	1	0	32	9	Four in One was the cartridge that accompanied the Cougar Boy / Mega Duck, which contains 4 games: Virus Attack (space shooting game, Space Invaders clone); Electron World (maze action game); Trouble Zone (puzzle game); Says Block (adventure game)., developed by Sachen and published by Timlex International Limited,...
+gb wordyl	z	2022	1	0	0	0	A Wordle clone for Mega Duck
+hopman	p	2024	1	0	0	0	
+hopman mini	p	2024	1	0	0	0	
+magic maze	z	1993	1	0	31	10	Magic Maze is a puzzle game, developed by Commin and published by Timlex International Limited, which was released in 1993.
+magic tower	v	1993	1	0	36	9	Magic Tower is an Adventure game, developed by Sachen and published by Timlex International Limited, which was released in 1993.
+magical tower	v	1993	1	0	36	9	Magic Tower is an Adventure game, developed by Sachen and published by Timlex International Limited, which was released in 1993.
+max pirate	a	2024	1	0	0	0	You are a pirate captain who has just arrived to a small port town. But the locals you are not as lively as you expected them. Armed with your trusty anchor and cannon Bessie, you try to eliminate as many of them as you can!
+mega duck 4 in 1 game		1993	1	0	32	9	Four in One was the cartridge that accompanied the Cougar Boy / Mega Duck, which contains 4 games: Virus Attack (space shooting game, Space Invaders clone); Electron World (maze action game); Trouble Zone (puzzle game); Says Block (adventure game)., developed by Sachen and published by Timlex International Limited,...
+pegged	z	2023	1	0	0	0	Play the classic peg solitaire game now on your 8 bit console. Jump the pegs over each other in order to remove pegs until only one peg remains. Press the right button to cancel the current move or to restart the game. Hold both buttons down to end the game and return to the tile.
+penguin migrants	z	2024	1	0	0	0	
+pile wonder	z	1993	1	0	34	7	Pile Wonder is an Puzzle game, Sokoban style, developed by Commin and published by Timlex International Limited, which was released in 1993.
+puppet knight	a	1993	1	0	38	14	Puppet Knight is an Action game, developed by Commin and published by Timlex International Limited, which was released in 1993.
+railway	z	1993	1	0	28	10	Railway is a puzzle game, developed by Sachen and published by Timlex International Limited, which was released in 1993.
+snake roy	z	1993	1	0	36	14	Snake Roy is a Jigsaw puzzle game (game of the "snake"), developed by Sachen and published by Timlex International Limited, which was released in 1993.
+street rider	c	1993	1	0	34	10	Street Rider is a race game (clone of the game Rally-X, classic of Namco in the Arcades in the 80s), developed by Commin and published by Timlex International Limited, which was released in 1993.
+suleiman s treasure	v	1993	1	0	42	8	Suleiman's Treasure is an Adventure game, developed by Commin and published by Timlex International Limited, which was released in 1993.
+sushi nights	p	2021	1	0	0	0	Nights are tough in Neo Sushi City, and hunger spares no one. Only the most hardboiled of sheeps can safely deliver sushi fast enough to save the starving inhabitants of this ravaged metropolis.
+trap and turn	a	1993	1	0	19	8	Trap and Turn is an action game, developed by Commin and published by Timlex International Limited, which was released in 1993.
+vex	z	1993	1	0	30	7	Vex is an puzzle game, developed by Commin and published by Timlex International Limited, which was released in 1993.
+vexed	z	2023	1	0	0	0	A new and original puzzle game. Match the blocks, reach par, but make sure no block is left behind. Vexed is an addictive puzzle game where you must match the blocks to remove them from the level. Sometimes three blocks must be removed in a single move. Line up the blocks to stop them from connecting.
+waternet	z	2022	1	0	0	0	Waternet is a multiplatform puzzle game written for old consoles and handhelds like Game Boy (Color), Game Gear, Master System, Analogue Pocket and Mega Duck using the gbdk sdk. The aim of the game, in any game mode is always to connect all pipes so that water can flow through them from the water point source.
+wordyl	z	2022	1	0	0	0	A Wordle clone for Mega Duck
+worm visitor	a	1993	1	0	34	8	Worm Visitor is an action game (Frogger style), developed by Sachen and published by Timlex International Limited, which was released in 1993.
+zipball	az	1993	1	0	32	10	Zipball is a puzzle game, developed by Sachen and published by Timlex International Limited, which was released in 1993.

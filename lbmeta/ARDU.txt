@@ -1,0 +1,110 @@
+101 starships	s	2017	1	0	0	0	101 Starships is a minimalist, retro-styled horizontal shoot 'em up (shmup) originally developed by indie creator Zoglu. Built with an arcade-focused mindset, the game strips the space-shooter genre down to its purest, most challenging elements, delivering fast-paced action perfectly tailored for pocket-sized retro...
+1944	s	2017	1	0	35	2	
+1944 return to midway	s	2017	1	0	35	2	
+1nvader	s	2021	2	0	35	2	1NVADER is a one or two-player game played with one button, one laser, one 1NVADER, and one life. Play co-operatively, or competitively with a friend, or face the 1NVADER alone.
+2048	z	2017	1	0	0	0	A port of 2048 to Arduboy.
+arcade kong ii	a	2020	1	0	0	0	An Arduboy Donkey Kong-like.
+ard drivin	c	2017	1	0	38	2	Technical info so far: Game runs at a constant rate of 67 frames per second Rendered in 3 colors: black, gray, white Grayscale is achieved by flickering quickly between black and white, and also alternating the dithering pattern, so it looks more stable.
+ardu ez button		2019	1	0	13	3	
+ardu man	a	2016	1	0	0	0	An Arduboy tribute to Pac-Man which developed and released by Seth Robinson on June 2, 2016.
+ardu racer	c	2020	1	0	10	3	Ardu-Racer is a top down racing time trial racing game for the ArduBoy. Game works like follows, if you beat the number 2 time, you can advance to the next stage. You need to do 5 laps on each stage. The stages have checkpoints which you have go through. Your fastest lap time is what gets you to advance.
+ardu turf masters	o	2017	1	0	0	0	A Golf game tribute to the classic Neo Turf Masters. Your main goal is to fill your card with the lowest score possible. You can replay holes to improve your score.
+arduboy says		2017	1	0	0	0	
+ardubullets	s	2020	1	0	0	0	Defeat large waves of enemies within one minute. Enemy attack patterns are randomly generated from a five-letter code, which you can share to let others play the same level.
+ardugods	it	2021	1	0	0	0	
+ardugolf	o	2022	1	0	0	0	
+ardugolf 18 hole mini golf	o	2022	1	0	0	0	
+arduracer	c	2020	1	0	10	3	Ardu-Racer is a top down racing time trial racing game for the ArduBoy. Game works like follows, if you beat the number 2 time, you can advance to the next stage. You need to do 5 laps on each stage. The stages have checkpoints which you have go through. Your fastest lap time is what gets you to advance.
+ardurogue	ar	2022	1	0	0	0	An Arduboy roguelike.
+ardusweeper	z	2016	1	0	0	0	A minesweeper-like for the Arduboy.
+arduventure trail of the blade	ar	2018	1	0	40	2	
+ardynia	v	2018	1	0	0	0	Hey everyone! I wanted to share some information about the game I'm developing for the Arduboy, called Ardynia. It’s inspired by the Zelda series, particularly Link’s Awakening. The game features an auto-save function, and completing the game will result in about 20 auto-saves being created.
+ardynia an elvish adventure	v	2018	1	0	0	0	Hey everyone! I wanted to share some information about the game I'm developing for the Arduboy, called Ardynia. It’s inspired by the Zelda series, particularly Link’s Awakening. The game features an auto-save function, and completing the game will result in about 20 auto-saves being created.
+artillery	at	2017	2	0	0	0	The classic 2 player artillery game now on Arduboy!
+biribiribeat	m	2020	1	0	0	0	BiriBiriBeat is a miniature rhythm game experience in a microscopic 28KB package. Join your robotic guide Navi and groove together to square wave sounds as you tap your way to the top of the scoreboard! This game is designed and compiled for the Arduboy handheld game system.
+blackjack	n	2018	1	0	0	0	Blackjack for the Arduboy
+blade runner	ap	2021	1	0	0	0	Your task is to move from one platform to another through the constructed blade-bridge. If you get to the exact center of the bridge, you earn one coin. Perfect hit 5 times in a row gives +5 coins. At the hard level, these indicators double.
+blob attack	z	2015	1	0	18	3	Blob Attack is a falling block puzzle game inspired by Puyo Pop Fever. The game plays the same as most Puyo Puyo variants. Sets of two blobs fall from the top, and each blob can be one of five types. You need to match at least four of the same blobs in order to clear them and increase your score.
+blocks	z	2016	1	0	20	1	An Arudboy Sokoban type game.
+bone shakers	c	2018	1	0	0	0	Bone Shakers is a racing game where skeletons ride unicycles around a dungeon race track. In part inspired by Super Mario Kart for the SNES. It was developed for the Unofficial Game Jam 4, where the theme was ‘Dungeons and Unicycles’.
+bounce		2016	1	0	0	0	The Bounce is a bouncy ball physics platformer game. Simple to understand yet incredibly hard to master, what seems easy at first glance is actually pretty rage inducing when you get to the later levels.
+candywar	i	2022	1	0	0	0	Buy and sell candy to earn as much money as possible in 30 days, but watch out for your Mom!
+castleboy	p	2017	1	0	20	1	An Arduboy Castlevania clone.
+cat mines	z	2021	1	0	0	0	The objective is to successfully mark all the mines (or cats) on the grid in the shortest amount of time possible. If you accidentally reveal a mine, the game ends. The game has three different difficulty levels, each with a different number of mines on the grid. Once you have won or lost, your time will be shown.
+catacombs of the damned	s	2019	1	0	0	0	Catacombs of the damned! is a first person shooter / dungeon crawler where you navigate 10 floors of a randomly generated dungeon dispatching monsters with your magic fireballs whilst collecting as much loot as possible.
+catmines	z	2021	1	0	0	0	The objective is to successfully mark all the mines (or cats) on the grid in the shortest amount of time possible. If you accidentally reveal a mine, the game ends. The game has three different difficulty levels, each with a different number of mines on the grid. Once you have won or lost, your time will be shown.
+cattle quest	s	2020	1	0	0	0	You control the saucer and you are on a quest for cows. Your ship is armed with missiles and a tractor beam. You collect a cow and transport it to the bin at the very far left of the level and drop it in. The level is 5 screens wide. Using the tractor beam drains energy as indicated by the meter in the lower left.
+chri bocchi cat	a	2017	1	0	5	1	Move the cat and bounce gift boxes for 2 minutes.
+circuit dude	z	2016	1	0	0	0	Help Circuit Dude build an awesome invention by leading him through 75 unique levels, completing circuits and plugging in microchips.
+crates 3d	z	2016	1	0	0	0	
+crawl		2019	1	0	0	0	
+crazy kart	c	2016	1	0	0	0	Small game built for Arduboy to test capabilities and frameworks.
+dark and under	r	2017	1	0	0	0	Dark & Under is a dungeon crawler for Arduboy. Do you have what it takes to survive the depths of the Undermountain? Alone? If so, then pack your gear, strap on your shield, explore labyrinthine corridors and battle unimaginable foes to steal the greedy Dragon’s treasure.
+dice of fate	n	2016	1	0	10	2	Dice of Fate is a dice rolling simulator for the Arduboy.
+dinosaur	a	2022	1	0	5	1	Google's dinosaur game ported to Arduboy.
+electrocardioground fx	a	2024	1	0	0	0	A minimalist arcade game about keeping the beat alive. Features 2 game modes and alternating colours. Instructions: -Raise the columns with the arrows / buttons -Avoid or stomp the beats -Raised columns lose life over time. Resting columns regain it.
+fill the cup	z	2020	1	0	0	0	The objective of the game is simple: Fill the cup There are 10 unique levels. Some challenging and some just pure fun all mixed in. After you complete level 10 the game will enter a new mode, the time trial mode where you have a set amount of time to complete the level and progress to the next level.
+fire panic	a	2019	1	0	0	0	An Arduboy remake of the Game & Watch classic.
+flappy ball	a	2016	1	0	0	0	Floaty Ball, or Flappy Ball as the intro screen calls it, was a game included as an example in early versions of the Arduboy library. It was removed because it was virtually unplayable, due to the speed that the ball moved.
+flappy birdie	a	2018	1	0	0	1	An Arduboy Flappy Bird clone.
+floaty ball	a	2016	1	0	0	0	Floaty Ball, or Flappy Ball as the intro screen calls it, was a game included as an example in early versions of the Arduboy library. It was removed because it was virtually unplayable, due to the speed that the ball moved.
+floor fall	z	2021	1	0	15	1	An 11 level puzzle game.
+fluffles rainy day	a	2020	1	0	5	1	Can you help fluffles get through the rain? This pup doesent like getting their paws wet unfortunately they’ve gotten themselves stuck out in a storm. Try and avoid as many puddles as you can so that Fluffles doesent get wet!
+galactea	s	2020	1	0	0	0	You are a little ship in the middle of the space and your objective is pass through 3 levels full of enemies and beat a boss at the final of the level 3. When you kill enemies, they drop spacial money, and you can use that money to improve your ship in the shop.
+hangman	z	2018	1	0	15	1	A Hangman clone for the Arduboy, developed by serisman.
+holidate	l	2017	1	0	15	1	Holidate is a Christmas-themed visual novel where you go on a date with Frosty the Snowman. Many MULTIPLE different endings are available. Will you win the heart of Frosty? Press RIGHT on the dpad to advance the text.
+kemono patrol	ps	2017	1	0	23	3	A Moon Patrol clone for Arduboy.
+knight move	az	2020	1	0	0	0	Knight Move is an action-puzzle game. You control a knight piece of the chess which can move in an L shape on the 8×4 board. Each square becomes a hole by landing on 3 times and points are obtained. When you capture a heart in mode A or 3~6 hearts in mode B, all holes are recovered and the level increases.
+kong ii	a	2020	1	0	0	0	An Arduboy Donkey Kong-like.
+krazy kart	c	2016	1	0	0	0	Small game built for Arduboy to test capabilities and frameworks.
+lagunita	i	2019	1	0	0	0	A wild west themed town builder.
+longcat	z	2022	1	0	0	0	LongCat is a little puzzle game inspired in the longcat minigame from the Fancade Android game.
+mallard hunt	s	2018	1	0	20	1	An Arduboy Duck Hunt clone.
+micro tank	s	2019	1	0	50	1	You start with a small tank and your goal is to get as deep as possilbe into enemy territory. Some enemys drop coins for upgrading the weapon of your choice. For more detail see my github readme file.
+micro td	t	2018	1	0	0	0	You build towers in order to keep creeps that spawn at start location(s) and run to the finish location(s). By killing creeps and finishing rounds you earn $$$ to buy more towers and upgrades. There are 5 maps, 8 tower types, most with 2 upgrades, and 11 creep types.
+microcity	i	2018	1	0	0	0	An Arduboy clone of SimCity.
+microtank	s	2019	1	0	50	1	You start with a small tank and your goal is to get as deep as possilbe into enemy territory. Some enemys drop coins for upgrading the weapon of your choice. For more detail see my github readme file.
+microtd	t	2018	1	0	0	0	You build towers in order to keep creeps that spawn at start location(s) and run to the finish location(s). By killing creeps and finishing rounds you earn $$$ to buy more towers and upgrades. There are 5 maps, 8 tower types, most with 2 upgrades, and 11 creep types.
+midnight wild	p	2018	1	0	0	0	Something’s gone awry out West! Help Dusty Argile adventure out and defeat the baddies who are causing a commotion and stopping him from getting a good night’s rest.
+mini rogue	r	2018	1	0	0	0	Mini Rogue is a 9-card game in which a single player delves into a deep dungeon to get the famous ruby called The Og’s Blood on the bottom floor. The player must choose how to spend their resources in order to be powerful enough to confront ever difficult monsters.
+monpals	r	2019	1	0	0	0	Monpals is a rpg that is much like Pokemon and Monster Rancher. There are 15 total monsters in the game that have one of three types: Nature, Mystic, Synth.
+montana	z	2026	1	0	0	0	Montana is the Arduboy version of the card game "Montana Solitaire" also known as "Gaps Solitaire" Game explanation: The goal of this game is to place all the cards of a 52-card deck in 4 rows in order, starting with the 2 and ending with the king.
+montana solitaire	z	2026	1	0	0	0	Montana is the Arduboy version of the card game "Montana Solitaire" also known as "Gaps Solitaire" Game explanation: The goal of this game is to place all the cards of a 52-card deck in 4 rows in order, starting with the 2 and ending with the king.
+mystic balloon	p	2015	1	0	0	0	
+ninja fuzzgrawth	p	2017	1	0	0	0	Guide the Fuzzgrawth up the three towers to collect the three ‘things’! It’s a fast paced platformer against the clock with randomly ordered levels.
+not just a hat rack	p	2017	1	0	0	0	‘Not Just a Hat Rack’ is a fast paced platformer for the Arduboy inspired by titles such as ‘Super Meat Boy’ & ‘Super House of Dead Ninjas’. The aim is to complete the 40 rapidfire levels in the shortest time… There is no pause button…
+oh hell	n	2024	1	0	10	1	After dealing cards to the players, a single card is turned over to indicate trumps. Beginning with the player left of the dealer and continuing clockwise, players make a bid as to how many tricks they believe they can take. Players cannot pass but can bid zero, believing they will not make any tricks.
+oh hell fx	n	2024	1	0	10	1	After dealing cards to the players, a single card is turned over to indicate trumps. Beginning with the player left of the dealer and continuing clockwise, players make a bid as to how many tricks they believe they can take. Players cannot pass but can bid zero, believing they will not make any tricks.
+oil panic	a	2020	1	0	0	0	Inspired by yet another Game and Watch, PPOT presents Oil Panic. Catch all the oil before it sets the shop on fire!
+paqman	a	2016	1	0	50	1	An Arduboy Pac-man port.
+picross	z	2019	1	0	0	0	Classic PiCross game with 300 puzzles ranging in size from 5x5 to 16x16.
+pipes	z	2017	1	0	0	0	A version of the classic pipes game where you must lay pip between each pair of nodes without the pipes crossing each other. This version has puzzles ranging from 5 x 5 to 9 x 9.
+quarto	n	2019	1	0	10	1	“Quarto!” is a board game played on a 4x4 board with 16 unique pieces.
+rayne the rogue	a	2017	1	0	0	0	As a child Rayne watched the rich from the streets of the village and burned with jealousy. After years and years of poverty an idea formed. Rayne has decided to sneak into the lairs of dragons and steel their treasures.
+rhythum	m	2020	1	0	20	1	Mobile suit/mech rhythm like game for the Arduboy. You are piloting the Orchestra's new Rhythum mobile suit unit, when the ship you are on is attacked by a fleet of enemy suits known as the Conductors.
+rick and morty		2017	1	0	0	0	
+rick and morty game		2017	1	0	0	0	
+rick ardurous	p	2022	1	0	0	0	Rick Dangerous, now on the Arduboy.
+road trip	c	2021	1	0	15	1	Strap on your goggles. Sink into your seat. And leave all your fears in the pit. You’re about to enter the race of your life. You’ll be required to pass lots of cars each day. From sunrise to sunset - as fast as you can. Welcome to the National Enduro! With each passing day, your target number of cars will increase.
+santa s factory	a	2017	1	0	15	1	This holiday, there're too many good kids in the world. As usual, good kids will get a present from Santa in this holiday. But before that, you gotta help Santa to wrap all the presents. In Santa's Factory, there's no room for one mistake. Your job is to deliver each present to the correct place.
+sdf				0	0	0	
+shattered lands towers of perdition	r	2019	1	0	0	0	Shattered Lands: Towers of Perdition is a multi-part RPG saga for the Arduboy.
+single ennead	n	2021	1	0	10	1	Single Ennead is a demake of the Triple Triad trading card game from the Final Fantasy franchise. In this clone, there are 100 cards to collect, each with different art and flavor text.
+sirene	s	2016	1	0	0	0	
+sliding tiles	z	2020	1	0	0	0	Various images have been sliced into nine equal pieces and it’s your job to put them back in order. You know the drill, it’s a 3x3 sliding tile puzzle
+social distance	a	2020	1	0	25	2	Get more points by keeping your distance from pedestrians and make your community proud. Ultimately, you should really be at home so at some point you’ll lose lol.
+social distance game	a	2020	1	0	25	2	Get more points by keeping your distance from pedestrians and make your community proud. Ultimately, you should really be at home so at some point you’ll lose lol.
+spacecab	a	2018	1	0	0	0	Collect and deliver customers to their destination as quickly as possible to make the most money! But be careful and make sure you do not run out of fuel, land without deploying your landing gear or squash a customer.
+star honor	a	2016	1	0	0	0	Star Honor is a Roguelike space adventure where you are field promoted into the Captain’s chair of the USS Arduino. Your home world has become the victim of the a biological weapon deployed by enemies. You posses the only hope for your world, a cure for the phage.
+starduino classic	s	2019	1	0	0	0	A StarFox themed space shooter.
+stonk simulator		2023	1	0	5	1	
+sudoku nbp	z	2016	1	0	0	0	An Arduboy Sudoku game.
+tackle box	o	2018	1	0	0	0	Armed with ten bucks, a fishing pole and a dream, your quest is to find and catch the big one.
+tiny 2048	z	2016		0	0	0	
+tiny ddug	a	2020	1	0	20	1	An Arduboy take on Dig-Dug
+tiny sokoban	z	2016	1	0	0	0	Tiny Sokoban is Sokoban(1982) clone.
+tonk simulator		2023	1	0	5	1	
+tower of pain	a	2021	1	0	0	0	Tower Of Pain is a small roguelike game with simplified mechanics and small assets.
+under the tower	r	2018	1	0	0	0	In a dying city, cut off from the world due to plague, The Tower stands above its center. While the rich and powerful gather in the tower, safe from the devastation below, those below are not so lucky. Among the trash on mud flats by the river, scavengers seek to find anything valuable. They are known as Mudlarks.
+virus lqp 79	s	2016	1	0	0	0	Virus LQP-79 is a multi-directional shooter where you play as Amy, who is trying to escape her home town which has been infested by zombies. In the game you are placed into a small level and must find two survivors before the level exit opens up and you can move on to the next level.
+zoo at midnight	e	2017	1	0	0	0	The zoo had to close, but the keepers had forgotten to feed the animals, now it’s up to Scrawf to find them food and feed them without being caught in the zoo warden’s flashlights! Guide Scrawf through, what can only be described as, the world’s most warden heavy zoo & hedge-maze.

@@ -1,0 +1,14 @@
+assemblio	z	2022	1	0	0	0	Assemblio is a factory automation game for the WASM-4 fantasy game console. It is written in Zig and highly inspired by the great Factorio and shapez.io. The goal of the game is to complete levels by producing the required items.
+dashy dango	f	2022		0	0	0	Dashy Dango a wave fighting game made with WASM-4 by @samX500 and @willGuimont. Help the Dango survive by fighting waves of enemies. Dash into enemies to eliminate them.
+dodgeball	o	2022	1	0	0	0	
+floppy fish	a	2022	1	0	0	0	Floppy Fish is a simple game created for WASM-4 in which you control a fish that must move sideways to dodge falling rocks.
+it s corn	c	2022	1	0	0	0	It's Corn! is a Racing game for the WASM-4, developed and released in 2022 by SLiV. My entry for GBJam 10. Made in a little over a day using my own esoteric programming language, Penne, for the WASM-4 fantasy console. Controls: arrow keys, X for a boost.
+journey to entorus	s	2022	1	0	30	1	Journey to Entorus is a bullet-hell with a short story, made for the second WASM-4 gamejam. The game is a bit difficult at times, so if you are getting frustrated, you can set the difficulty to Practice in Options to just enjoy the ride.
+miku 15	z	2021	1	0	0	0	This is a simple 15-Puzzle, with images of Hatsune MIku. You have to sort all the pieces until you get the final image. • On title screen, Press Z or X to start the game. • Use arrow keys to move the pieces. • Press X to open the game's menu, and Z to select an option.
+minigolf	o	2022	1	0	0	0	This is a very basic minigolf game developed for the Indie Game Dev Beginners Game Jam. Drag with left mouse button or touch screen and release to push the ball. Hold right mouse button to zoom out and get an overview of the level. Press R to reset.
+pong	a	2021	2	0	0	0	A port of the classic arcade game Pong for the WASM-4. P1 controls: Arrows, X, Z / P2 controls: ESDF, Tab, Q
+samurai revenge	a	2022	1	0	0	0	Game for WASM-4 Game Jam #2. Earn the highest score in this endless-destroying game driven by greed of revenge.
+sokoban	z	2022	1	0	50	1	A sokoban game built for the WASM-4 fantasy console in the WASM-4 Game Jam P1 controls: Arrows, X, Z / P2 controls: ESDF, Tab, Q
+totally not sumo	f		2	0	10	1	
+wloku	s	2022	2	0	0	0	Local multiplayer tank game made for the WASM-4 Game Jam. Controls: • Player 1: arrows, M to shoot • Player 2: ESDF, TAB to shoot
+zoop zoop bee adventures 7	a	2022	1	0	0	0	Defend your meadows from Dick Dastardly Duck! Controls Press X to start the game and use the arrow keys to move! If all bees are downed press X again to go to the main menu and see your high scores!

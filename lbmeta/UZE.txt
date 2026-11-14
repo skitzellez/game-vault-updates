@@ -1,0 +1,6 @@
+joyrider	c	2014	2	0	30	3	Joyrider is an action / driving game for the Uzebox, in the style of the original Grand Theft Auto and Driver games, created by James Howard for the Uzebox Coding Competition 2014.
+ruby crush	z	2010	1	0	0	0	Ruby Crush is an open source clone of Bejeweled (or any other match-3 game). It is currently single player, with two modes: Classic and Timed.
+space invaders	s	2010	1	0	50	1	Space Invaders is a re-make of the 1978 classic arcade game.
+stormforce	s	2016		0	20	1	Stormforce is a vertical shooter. Use your star fighter to fight your way through 4 levels. There are no shields, so use your 3 smartbombs and 3 lives carefully. Features: - 4 levels - Some enemies - Some sound effects
+xor	z	2013		0	0	0	XOR is a remake of an 8-bit game made by Astral Software back in 1987 for the BBC Micro, Amstrad CPC, ZX Spectrum etc. The object of the game is to pick up all the masks in the maze.
+zombienator	s	2009	2	0	50	2	Zombinator is a shoot-em-up game taking place in a cemetery where you must shoot onslaughts of zombies. Features: - 2 player mode - Scrolling - Zombies! - Bushes and Churches! - FLAMETHROWER!!
