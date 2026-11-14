@@ -1,0 +1,72 @@
+a jax	V
+akumaj dracula	P
+akumajou dracula	P
+alien syndrome	G
+aquales	GP
+argos no senshi	P
+atomic robo kid	H
+balloon fight	P
+baraduke	G
+bonanza bros	P
+bubble bobble	P
+buster	P
+castlevania chronicles	P
+cho ren sha 68k	V
+city connection	P
+cloud master	H
+cobra command	H
+cotton	H
+cotton fantastic night dreams	H
+cyber core	V
+dai makai mura	P
+daimakaimura	P
+darius	H
+diamond explorer ii	P
+door door	P
+dragon spirit	V
+fairyland story	P
+fantasy zone	H
+gemini wing	V
+genpei t ma den	P
+genpei toumaden	P
+ghouls n ghosts	GP
+gradius	H
+gyaos	P
+heavy nova	P
+image fight	V
+lode runner	P
+m rchen maze	P
+mappy	P
+mappy yopino	P
+marchen maze	P
+mario bros	P
+moon crystal	P
+mugen senshi valis ii	P
+naious	H
+new zealand story	P
+newzealand story	P
+ora ora ball	P
+pac land	P
+parsec	H
+phalanx	H
+prince of persia	P
+r type	H
+rygar	P
+salamander	H
+shouten	P
+sorcer striker	V
+star force	V
+strider	P
+strider hiryu	P
+super mario bros	P
+toile princesse	G
+twin cobra	V
+twinbee	V
+valis ii	P
+valis the fantasm soldier ii	P
+video game anthology vol 09 argos no senshi	P
+video game anthology vol 11 pac land	P
+wrecking crew	P
+xenon 2 megablast	V
+zark legend special	P
+zoutage hunters	P

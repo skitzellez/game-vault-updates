@@ -1,0 +1,352 @@
+1943 the battle of midway	V
+9 lives	P
+a m c	P
+a m c astro marine corps	GP
+a prehistoric tale	P
+action service	P
+addams family	P
+adventures of quik and silva	P
+albedo	P
+alcatraz	P
+aliants the desperate battle for earth	P
+alien syndrome	G
+aliens	G
+alpha waves	P
+altered beast	P
+amazing spider man	P
+anarchy	H
+another world	P
+apprentice	P
+arctic moves	G
+army moves	H
+artura	P
+astaroth the angel of death	P
+atomic robo kid	H
+axel s magic hammer	P
+baal	P
+baby jo going home	P
+baby jo in going home	P
+bad dudes vs dragon ninja	P
+barbarian	P
+barbarian ii psygnosis	P
+barbarian psygnosis	P
+bart vs the world	P
+batman the movie	P
+beverly hills cop	P
+beyond the ice palace	P
+big nose the caveman	P
+bignose the caveman	P
+bio challenge	P
+bionic commando	GP
+black lamp	P
+black tiger	P
+blinkys scary school	P
+blood money	H
+blues brothers	P
+bomb fusion	P
+bomb jack	P
+bombjack	P
+bonanza bros	P
+bubble bobble	P
+bubble bobble 2	P
+bubble dizzy	P
+bug bash	P
+builderland	P
+builderland the story of melba	P
+bumpy	P
+burger man	P
+burger time	P
+captain dynamo	P
+captain planet and the planeteers	P
+cavemania	P
+chaos engine	G
+chariots of wrath	P
+chicago 30 s	P
+chronicles of omega	P
+chubby gristle	P
+chuck rock	P
+cj in the usa	P
+cj s elephant antics	P
+clown o mania	P
+combat course	P
+commando	G
+cool croc twins	P
+cool world	P
+cosmic relief	P
+cosmic relief prof renegade to the rescue	P
+count duckula	P
+count duckula 2 featuring tremendous terence	P
+count duckula no sax please we re egyptian	P
+creatures	P
+creatures to the rescue	P
+crime city	G
+dalek attack	P
+dan dare iii the escape	P
+darius	H
+dark castle	P
+darkman	P
+death trap	P
+defenders of the earth	P
+deliverance	P
+demon blue	P
+dizzy ii	P
+doc croc s outrageous adventures	P
+dogs of war	G
+doodlebug	P
+doodlebug bug bash 2	P
+dragon breed	H
+dragon spirit	V
+dragonlord	P
+ducktales the quest for gold	P
+duckula ii	P
+edd the duck	P
+elf	P
+eliminator	H
+elvira the arcade game	P
+enchanted land	P
+entombed	P
+erik	P
+exile	P
+exolon	GP
+fantasy world dizzy	P
+fire and brimstone	P
+fire and ice the daring adventures of cool coyote	P
+first samurai	P
+flashback	P
+flashback the quest for identity	P
+flimbo s quest	P
+flintstones	P
+flood	P
+fluffies	P
+flying shark	V
+forgotten worlds	H
+fred	P
+fuzzball	P
+game over ii	P
+gauntlet	H
+gemini wing	V
+ghost battle	P
+ghosts and gobllins	P
+ghosts n goblins	GP
+ghouls n ghosts	GP
+godfather	G
+gods	P
+goldrunner	V
+great giana sisters	P
+gremlins 2 the new batch	P
+guy spy and the crystals of armageddon	P
+hades nebula	V
+hard n heavy	P
+hawkeye	P
+hector vs the mutant vampire tomatoes from hell	P
+hellfire	H
+high steel	P
+huckleberry hound in hollywood capers	P
+hudson hawk	P
+i ball	V
+ikari warriors	G
+imperium	V
+impossamole	P
+impossible mission 2	P
+impossible mission ii	P
+in 80 days around the world	P
+in eighty days around the world	P
+indiana jones and the last crusade the action game	P
+indigo	P
+james pond 2 codename robocod	P
+james pond underwater agent	P
+jet set willy	P
+jim power in mutant planet	P
+joe blade	P
+joust	P
+judge dredd	P
+kid gloves	P
+kid gloves ii the journey back	P
+killerball	P
+killing game show	G
+la bande a picsou la ru e vers l or	P
+lagaf les aventures de moktar vol 1 la zoubida	P
+last duel	V
+le fetiche maya	P
+le margoulin	P
+leander	P
+leavin teramis	G
+lethal weapon	P
+licence to kill	V
+little puff in dragonland	P
+livingstone i presume	P
+livingstone ii	P
+livingstone supongo	P
+livingstone supongo ii	P
+lode runner	P
+los picapiedra	P
+mad professor mariarti	P
+magic boy	P
+magic pockets	P
+magician	P
+magicland dizzy	P
+mata hari	P
+maya	P
+mcdonaldland	P
+mega twins	P
+menace	H
+mercs	G
+metro cross	P
+metrocross	P
+michael jackson moonwalker	P
+midnight resistance	GP
+mighty bomb jack	P
+mighty bombjack	P
+mission elevator	P
+monster business	P
+moon patrol	H
+mouse quest	P
+mouse trap	P
+myth history in the making	P
+narc	G
+nebulus	P
+new zealand story	P
+newzealand story	P
+nicky 2	P
+nicky boom	P
+nicky ii	P
+no buddies land	P
+north and south	P
+obliterator	P
+old towers	P
+onslaught	P
+ork	P
+ozone	P
+pac land	P
+pang	P
+parasol stars rainbow islands 2	P
+pixie and dixie featuring mr jinks	P
+platoon	G
+popeye 2	P
+potsworth and co	P
+prehistorik	P
+prince of persia	P
+protector	H
+push over	P
+pushover	P
+r type	H
+r type ii	H
+rainbow islands	P
+revenge ii	P
+revenge of the mutant cames ii	P
+rick dangerous	P
+rick dangerous 2	P
+rick dangerous ii	P
+risky woods	P
+robocop	G
+robocop 3	P
+rock n roll clams	P
+rod land	P
+rodland	P
+rogue trooper	P
+rolling ronny	P
+rolling thunder	GP
+round the bend	P
+saint dragon	H
+satan	P
+savage	P
+scooby doo and scrappy doo	P
+scramble spirits	V
+screaming wings	V
+sdi	H
+seymour goes to hollywood	P
+shadow dancer	P
+shadow of the beast	P
+shadow of the beast ii	P
+shinobi	P
+sidewinder	V
+simpsons bart vs the space mutants	P
+simpsons bart vs the world	P
+sir fred	P
+slackskin and flint	P
+slap fight	V
+slayer	H
+slightly magic	P
+son shu shi	P
+son shu si	P
+sonic boom	V
+sooty and sweep	P
+sorcery plus	P
+spell bound	P
+spellfire the sorcerer	P
+staff	P
+staff x 29	P
+star goose	V
+star quake	P
+star wars the empire strikes back	H
+stario s christmas	P
+starquake	P
+starray	H
+steel empire	H
+steg	P
+steg the slug	P
+stormbringer	P
+stormlord	P
+strider	P
+strider ii	P
+subline	P
+super cauldron	P
+super seymour saves the planet	P
+super stario land	P
+super wonder boy	P
+super wonder boy in monsterland	P
+switchblade	P
+switchblade ii	GP
+swiv	V
+teenage mutant hero turtles the coin op	P
+terramex	P
+terramex the cartoon animation game	P
+terry s big adventure	P
+thurg n murg	P
+tiger road	P
+tim and struppi auf dem mond	P
+time runner	P
+tintin on the moon	P
+tintin sur la lune	P
+titus the fox	P
+titus the fox to marrakech and back	P
+toki	G
+tom and jerry	P
+tom and the ghost	P
+top banana	P
+total recall	P
+tower toppler	P
+toyottes	P
+trantor the last stormtrooper	P
+treasure island dizzy	P
+turrican	GP
+turrican ii the final fight	GP
+twinworld	P
+u n squadron	H
+under pressure	P
+unreal	P
+untouchables	P
+verminator	P
+victory road	G
+videokid	P
+vixen	P
+warhawk	V
+warlock	P
+warlock s quest	P
+warlocks quest	P
+willow	G
+wings of death	V
+wizball	H
+wolfchild	P
+x out	H
+xenon	V
+xenon 2 megablast	V
+xenophobe	G
+yogi s big clean up	P
+yogi s great escape	P
+yolanda	P
+yolanda the ultimate challenge	P
+z out	H
+zone warrior	P
+zool	P
+zool ninja of the nth dimension	P

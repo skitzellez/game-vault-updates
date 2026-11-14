@@ -1,0 +1,216 @@
+2	P
+addams family	P
+adventure island	P
+air zonk	H
+akumajou dracula x chi no rondo	P
+alice in wonderland	P
+ankoku densetsu	P
+ankuku densetsu	P
+aoi blink	P
+baby jo the superhero	P
+bakushou yoshimoto no shinkigeki	P
+bakushou yoshimoto shinkigeki	P
+batoru rodo ranna	P
+battle chopper	H
+battle lode runner	P
+bikkuriman world	P
+blazing lazers	V
+blood gear	P
+bloody wolf	G
+blue blink	P
+bonanza bros	P
+bonk 3 bonk s big adventure	P
+bonk 3 bonk s big adventure cd	P
+bonk iii bonk s big adventure	P
+bonk iii bonk s big aventure	P
+bonk s adventure	P
+bonk s revenge	P
+bonze adventure	P
+burning angels	V
+busou keiji cyber cross	P
+buster bros	P
+cadash	P
+camp california	P
+castlevania rondo of blood	P
+chiki chiki boys	P
+cho aniki	H
+cloud master	H
+cotton fantastic night dreams	H
+cross wiber cyber combat police	P
+cubman	P
+cubman v1 0 by aramis	P
+cyber citizen shockman	P
+cyber core	V
+cyber cross busou keiji	P
+daimakaimura	P
+darius	H
+darkwing duck	P
+dead moon	H
+deep blue	H
+demon prince dorabo	P
+die hard	G
+disney s darkwing duck	P
+disney s talespin	P
+don doko don	P
+doraemon nobita no dorabian night	P
+doraemon nobita s dorabian nights	P
+dragon egg	P
+dragon fighter	P
+dragon s curse	P
+dragon saber	V
+dragon spirit	V
+energy	P
+eternal city	P
+eternal city project city transmission	P
+eternal city toshi tensou keikaku	P
+fairytale dreams of alice	P
+fantasy zone	H
+fausset amour	P
+faussete amour	P
+fiend hunter	P
+final blaster	V
+final zone ii	G
+forgotten worlds	H
+formation armed f	V
+fushigi no yume no alice	P
+fx unit yuki the henshin engine	P
+genji tsuushin agedama	P
+genpei toumaden kan no ni	P
+genpei toumaden ni no maki	P
+ghost manor	P
+ghouls n ghosts	GP
+gradius	H
+gradius ii	H
+hanii on the road	P
+hany on the road	P
+heavy unit	H
+honey on the road	P
+horror story	P
+hyper dyne side arms	H
+image fight	V
+impossamole	P
+j j and jeff	P
+jackie chan	P
+jackie chan s action kung fu	P
+jessie jaeger in cleopatra s curse	P
+jigoku meguri	P
+jim power	P
+jim power in mutant planet	P
+kaizou choujin shubibinman	P
+kaizou choujin shubibinman 2 aratanaru teki	P
+kat chan and ken chan	P
+kato chan and ken chan	P
+kato chan ken chan	P
+keith courage in alpha zones	P
+last alert	G
+legend of hero tonma	P
+legendary axe	P
+legendary axe ii	P
+liquid kids	P
+lode runner lost labyrinth	P
+lode runner ushinawareta meikyuu	P
+lords of thunder	H
+m rchen maze	P
+mad king granzort	P
+madou king granzort	P
+maerchen maze	P
+magical chase	H
+makai eiyuuden shape shifter	P
+makai prince dorabocchan	P
+makyou densetsu	P
+makyou densetsu the legendary axe	P
+marchen maze	P
+mashin eiyuuden wataru	P
+mashin hero wataru	P
+mega man 2	P
+mega man cd rock version	P
+mega man ii	P
+mirai shounen conan	P
+mizubaku adventure	P
+mizubaku daibouken	P
+momotarou katsugeki	P
+monster lair	P
+mugen senshi valis the legend of a fantasm soldier	P
+mystic formula	G
+new adventure island	P
+new zealand story	P
+newzealand story	P
+nhk	P
+nhk okaasan to issho niko niko pun	P
+niko niko pun	P
+ninja gaiden	P
+ninja ryuuken den	P
+ninja ryuukenden	P
+ninja spirit	P
+obo chama kun little princeling	P
+obocchama kun	P
+obocchamakun	P
+ordyne	H
+override	V
+pac land	P
+parasol stars the story of bubble bobble iii	P
+pc	P
+pc genjin	P
+pc genjin 2	P
+pc genjin 2 pithecanthropus computerurus	P
+pc genjin 3	P
+pc genjin 3 pithecanthropus computerurus	P
+pc genjin pithecanthropus computerurus	P
+peach boy s action movie	P
+pomping world	P
+pop n magic	P
+prince of persia	P
+psychosis	H
+r type	H
+r type ii	H
+raiden	V
+rainbow islands the story of bubble bobble 2	P
+rastan saga 2	P
+rastan saga ii	P
+rayxanber ii	H
+rayxanber iii	H
+saigo no nindou	P
+saigo no nindou ninja spirit	P
+saint dragon	H
+salamander	H
+samurai ghost	P
+seirei senshi spriggan	V
+shadow land	P
+shadow of the beast	P
+shadow of the beast mashou no okite	P
+shape shifter	P
+shapeshifter makai eiyuuden	P
+shinobi	P
+shockman	P
+sinistron	H
+slime world	P
+son son ii	P
+sonson ii	P
+spriggan mark 2 re terraform project	HV
+steam heart s	V
+strider hiryuu	P
+super air zonk rockabilly paradise	H
+super mario bros	P
+sylphia	V
+takahashi meijin no shin bouken jima	P
+tales of the monster path	P
+talespin	P
+tatsu no ko fighter	P
+tatsunoko fighter	P
+todd s adventures in slime world	P
+together with mother joking smile	P
+turrican	GP
+twin hawk	V
+uwol quest for money	P
+valis ii	P
+valis iii	P
+valis iv	P
+valis the fantasm soldier	P
+wonder boy iii monster lair	GP
+wonder boy iii the dragon s trap	P
+wonder boy in monster land	P
+wonderland maze	P
+y kai d ch ki	P
+yo bro	G
+youkai douchuuki	P
+zero wing	H

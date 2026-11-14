@@ -1,0 +1,7 @@
+alien hominid	G
+blowout	G
+defender	H
+freedom fighters	H
+godfather	G
+narc	G
+robocop	G

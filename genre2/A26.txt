@@ -1,0 +1,191 @@
+1942	V
+a team	P
+adventures of tron	P
+adventures of tron les adventures of tron	P
+adventures on gx 12	P
+airlock	P
+airwolf	H
+alfred challenge	P
+alices abenteuer	P
+alien abduction	P
+amoeba jump	P
+apples and dolls	P
+aufruhr im zoo	P
+bachelor party	P
+because it s there	P
+bermuda triangle	V
+blinky goes up	P
+bloody human freeway	P
+bobby is home	P
+boing	P
+burgertime	P
+caramujo	P
+casey s gold	P
+caverns of mars	V
+chaotic grill	P
+choplifter	H
+chopper command	H
+chronicles of ataria	P
+circus convoy	P
+climber 5	P
+clown downtown	P
+commando	G
+congo bongo	P
+cosmic commuter	H
+crash n dive	P
+d k vcs	P
+dasher	P
+david crane s pitfall ii lost caverns	P
+defender	H
+die springteufel	P
+dino eggs	P
+donkey kong	P
+donkey kong junior	P
+donkey kong vcs	P
+dschungel boy	P
+elevator action	P
+elevator agent	P
+elevators amiss	P
+em busca dos tesouros	P
+escape from supercade	P
+fall down	P
+fallpit the maya cave	P
+fantastic voyage	V
+farmyard fun	P
+fast eddie	HP
+fix it felix sr	P
+flash gordon	H
+frog pond	P
+frogs and flies	P
+game of the bear	P
+game of the bear 2 much to bear	P
+game panic 3	P
+game panic iii parcel success	P
+garfield	P
+gauntlet	H
+gigolo	P
+gingerbread man	P
+gingerbread man one tough cookie	P
+going up	P
+grenouilles et mouches	P
+h e r o	P
+h e r o 2	P
+h e r o helicopter emergency rescue operation	P
+handy pick hank	P
+harry peril	P
+hero 2	P
+hero and beauty	P
+hunchy	P
+hunchy 2	P
+hunchy ii	P
+i want my mommy	P
+ikari warriors	G
+im labyrinth des roboters	P
+in search of treasures	P
+inca gold	P
+infiltrate	P
+jacky adventure	P
+james bond 007	H
+jammed	P
+jetman	P
+joust	P
+jump vcs	P
+jumper	P
+jungle hunt	P
+juno first	V
+k c munchkin	P
+kangaroo	P
+kelly kangaroo	P
+king kong	P
+laser gates	H
+lilly adventure	P
+lode runner	P
+man goes down	P
+mappy	P
+marauder	P
+mario bros	P
+masters of the universe the power of he man	H
+mega man	GP
+mega man 2600	P
+miner 2049er volume ii	P
+mines of minos	P
+miss piggy s wedding	P
+mission ark	P
+montezuma s revenge	P
+montezuma s revenge featuring panama joe	P
+montezuma s revenge starring panama joe	P
+moon patrol	H
+mountain king	P
+mr do s castle	P
+mr run and jump	P
+mr t	P
+mr t moderne ritter der	P
+ninja hashiru	P
+o esquilo	P
+pac kong	P
+philly flasher	P
+philly flasher cathouse blues	P
+pitfall	P
+pitfall ii lost caverns	P
+pitfall pitfall harry s jungle adventure	P
+plague	P
+planet patrol	H
+popeye	P
+power off	P
+princess rescue	P
+q bert	P
+q bert s qubes	P
+rabbit transit	P
+red sea crossing	P
+reindeer rescue	P
+river raid	V
+robo tito	P
+robotron	P
+rubyq	P
+schnecke gegen eichh rnchen	P
+schussel der polizistenschreck	P
+scramble	H
+smurf rescue in gargamel s castle	P
+smurfs rescue in gargamel s castle	P
+snail against squirrel	P
+space jockey	H
+spider kong	P
+spider maze	P
+spider monster	P
+spies in the night	P
+spies in the night 2	P
+spies in the night 2 the lighthouse mission	P
+splatform 2600	P
+springer	P
+springteufel die	P
+squirrel	P
+squirrel o esquilo	P
+squish em	P
+stage fiend	P
+star wars the empire strikes back	H
+stargate	H
+stargunner	H
+stay frosty 2	P
+stay frosty 2 stay frostier	P
+super cobra	H
+super maria sisters	P
+tarzan	P
+teddy apple	P
+tom boy	P
+tom s eierjagd	P
+tony montezuma s gold	P
+trashmania	P
+trashmania remix 2012	P
+walker	HP
+walker schussel der polizistenschreck	P
+wall jump ninja	P
+wilma wanderer	P
+wing war	P
+wings of death	V
+wizard of the tower	P
+worm war i	V
+xanthiom 2600	P
+xenophobe	G
+zippy the porcupine	P
+zoo fun	P
+zoo keeper	P

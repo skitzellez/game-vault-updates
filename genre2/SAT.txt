@@ -1,0 +1,35 @@
+assault suit leynos 2	G
+batsugun	V
+battle garegga	V
+bedlam	G
+blast wind	V
+darius gaiden	H
+darius ii	H
+dodonpachi	V
+donpachi	V
+earthworm jim 2	G
+fantasy zone	H
+gekirindan	V
+gunbird	V
+hyper duel	H
+keio flying squadron 2	H
+major damage	G
+metal black	H
+metal slug	G
+parodius	H
+radiant silvergun	V
+rohga armor force	G
+scud the disposable assassin	G
+sexy parodius	H
+shienryu	V
+silhouette mirage	G
+sol divide	H
+sonic wings special	V
+steam heart s	V
+steamgear mash	G
+strikers 1945	V
+strikers 1945 ii	V
+tengai	H
+terra cresta 3d	V
+thunder force v	H
+twinkle star sprites	V

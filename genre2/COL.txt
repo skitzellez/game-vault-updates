@@ -1,0 +1,171 @@
+1942	V
+adventure island	P
+adventures of the pink panther	P
+airlock ii	P
+arabian	P
+ascend	P
+awass	P
+b c ii grog s revenge	P
+b c s quest for tires	P
+b c s quest for tires ii grog s revenge	P
+bagman	P
+baldy zx	P
+bc s quest for tires	P
+bc s quest for tires ii	P
+boggy 84	P
+bomb jack	P
+bounty bob strikes back	P
+bugs n bots	P
+bull and mighty s critical moment	P
+burger time	P
+burgertime	P
+buster bros	P
+c so	P
+cabbage patch kids	P
+cabbage patch kids adventures in the park	P
+caos begins	P
+casimodo	P
+castle	P
+castle excellent	P
+caverns of titan	P
+chack n pop	P
+choplifter	H
+circus charlie	P
+colored gravity	P
+comic bakery	P
+congo bongo	P
+cosmic avenger	H
+cosmic crisis	P
+cracky	P
+cubos	P
+defender	H
+dk arcade	P
+dk jr arcade	P
+donkey kong	P
+donkey kong 3	P
+donkey kong jr	P
+donkey kong junior	P
+drol	P
+easter bunny	P
+elevator action	P
+fireman	P
+fireworks factory	P
+flapee byrd	P
+flicky	P
+foggys quest	P
+frantic freddy	P
+frostbite	P
+fruit panic	P
+gamester 81 the video game	P
+gamester81 the video game	P
+gauntlet	H
+ghost	P
+ghost n zombies a quest for a rose	P
+ghostblaster	P
+ghosts n goblins	GP
+girl s garden	P
+goonies	P
+gradius	H
+gust buster	P
+gyromite	P
+h e r o	P
+h e r o helicopter emergency rescue operation	P
+hard hat mack	P
+heist	P
+helicopter emergency rescue operation	P
+hero	P
+hopman	P
+hustle chumy	P
+j e t p a c	P
+james bond 007	HP
+jet pack	P
+jet ready	P
+joust	P
+jump land	P
+jump or die	P
+jumpland	P
+jumpman jr	P
+jumpman junior	P
+jungle hunt	P
+juno first	V
+karateka 2	P
+keystone kapers	P
+king s valley	P
+knight n more	P
+l abbaye des morts	P
+lift	P
+lode runner	P
+lunar leeper	H
+magical kid wiz	P
+magical tree	P
+mappy	P
+mario bros	P
+masters of the universe the power of he man	HP
+mieyen	P
+miner 2049er	P
+miner 2049er starring bounty bob	P
+module man	P
+monkey academy	P
+monster house	P
+montezuma s revenge	P
+moon patrol	H
+mountain king	P
+mouser	P
+mr chin	P
+mr do s castle	P
+mr do s wild ride	P
+mr turtle	P
+ms space fury	P
+multiverse	P
+nether dungeon	P
+osotos	P
+pang	P
+parsec	H
+penguin land	P
+pitfall	P
+pitfall ii arcade	P
+pitfall ii lost caverns	P
+pitufo	P
+popeye	P
+porky s	P
+princess quest	P
+q bert	P
+q bert ii	P
+q bert s qubes	P
+r type	H
+risky rick in dangerous traps	P
+river raid	V
+roc n rope	P
+runaway train	P
+sammy lightfoot	P
+schtroumpfs	P
+scramble	H
+secret of the moai	P
+sir ababol	P
+smure rescue	P
+smurf challenge	P
+smurf rescue in gargamel s castle	P
+smurfs	P
+space panic	P
+space taxi	P
+spelunker	P
+spunky s super car	P
+spunky s supercar	P
+squish em	P
+squish em featuring sam	P
+squish em sam	P
+star force	V
+stray cat	P
+super cobra	H
+super dk	P
+super dk junior	P
+super donkey kong junior	P
+sydney hunter and the caverns of death	P
+sydney hunter and the sacred tribe	P
+thexder	G
+twinbee	V
+txupinazo	P
+uridium	H
+wonder boy	P
+youkai yashiki	P
+zombie incident	P

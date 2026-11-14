@@ -1,0 +1,310 @@
+4lex kidd in nightmare world	P
+addams family	P
+adventures of dino riki	V
+adventures of tv colosso	P
+aerial assault	H
+akai koudan zillion	P
+akai koudan zillion zillion	P
+aladdin	P
+aleste	V
+alex kidd 2	P
+alex kidd 2 curse in miracle world demo	P
+alex kidd 3 curse in miracle world	P
+alex kidd in bro no	P
+alex kidd in damned world	P
+alex kidd in miracle world	P
+alex kidd in miracle world 2	P
+alex kidd in miracle world alex kidd in mushroom world	P
+alex kidd in miracle world extended edition	P
+alex kidd in miracle world turrican 2 mod	P
+alex kidd in miracle world voyage a sorceress vacation	P
+alex kidd in mushroom world	P
+alex kidd in nightmare world	P
+alex kidd in radaxian rumble	P
+alex kidd in shadow world edition deluxe	P
+alex kidd in shinobi world	P
+alex kidd no miracle world	P
+alex kidd the lost stars	P
+alex kidd the lost stars stella edition	P
+alex kidd the lost stars with stella	P
+alex kido	P
+alien	P
+alien 3	GP
+alien syndrome	G
+alter ego	P
+altered beast	P
+ariel the little mermaid	P
+as aventuras da tv colosso	P
+ast rix	P
+ast rix and the great rescue	P
+ast rix and the secret mission	P
+asterix	P
+asterix and the great rescue	P
+asterix and the secret mission	P
+astro adventure	P
+astro climber	P
+astro warrior	V
+aventuras da tv colosso as	P
+bara bur	P
+bara buruu	P
+batman returns	P
+blade eagle 3 d	V
+bobble bobble	P
+bomber raid	V
+bonanza bros	P
+bonkers wax up	P
+boxguy adventure 2	P
+bram stoker s dracula	P
+bread and butter	P
+bread and butter world	P
+bruce lee	P
+bubble bobble	P
+bubble bobble dragon maze	P
+bubble dragon in paradise island	P
+captain silver	P
+castelo r tim bum	P
+castelo ra tim bum	P
+castle escape	P
+castle of illusion starring mickey mouse	P
+castlevania	P
+chapolim x dr cula um duelo assustador	P
+cheese cat astrophe starring speedy gonzales	P
+choplifter	H
+chuck rock	P
+chuck rock ii son of chuck	P
+clever raccoon dog defenders of the nation	P
+cloud master	H
+con dori	P
+cool spot	P
+cosmic spacehead	P
+cyber shinobi	P
+daffy duck in hollywood	P
+danan the jungle fighter	P
+deep duck trouble starring donald duck	P
+desert speedtrap starring road runner and wile e coyote	P
+dick tracy	P
+digger chan	P
+dino blaster hunter cat	P
+dinobasher starring bignose the caveman	P
+disney s aladdin	P
+disney s ariel the little mermaid	P
+disney s bonkers wax up	P
+doki doki penguin land uchuu daibouken	P
+donald duck in the lucky dime caper	P
+donald duck no lucky dime	P
+double target cynthia no nemuri	P
+duke nukem	P
+dynamite headdy	GP
+e swat	P
+e swat cyber police	P
+earthworm jim	GP
+egle in parallel worlds	P
+electronic dreams	P
+eswat city under siege	P
+f rias frustradas do pica pau	P
+fantastic dizzy	P
+fantasy zone	H
+fantasy zone ii the tears of opa opa	H
+ferias frustradas do pica pau	P
+final bubble bobble	P
+fire and ice	P
+flash	P
+flintstones	P
+forest escape	P
+forest escape a knight s quest	P
+forgotten worlds	H
+fridge fury	P
+gaegujangi ggachi	P
+gaegujangi kkachi	P
+galactic boogers	P
+gauntlet	H
+gekioko punpun maru	P
+geraldinho	P
+gg aleste 3	V
+ghost house	P
+ghouls n ghosts	GP
+global gladiators	P
+gousutohausu	P
+gradius	H
+gradius ii	H
+gun smoke	V
+hwarang ui geom	P
+impossible mission	P
+in the wake of vampire	P
+incredible hulk	P
+indiana jones and the last crusade	P
+iron man	P
+james bond 007 the duel	P
+james pond 2 codename robocod	P
+jetpac	P
+jungle book	P
+jurassic park	P
+juuouki	P
+kenseiden	P
+knightmare ii the maze of galious	P
+knights of the square	P
+krusty s fun house	P
+land of illusion starring mickey mouse	P
+legend of illusion starring mickey mouse	P
+legend of oliv	P
+les schtroumpfs autour du monde	P
+lion king	P
+little samson tribute	P
+los pitufos	P
+los pitufos travel the world	P
+lucky dime caper estralando pato donald	P
+lucky dime caper starring donald duck	P
+m nica no castelo do drag o	P
+marble zone in sonic the hedgehog	P
+mario in sonic the hedgehog	P
+maseong jeonseol ii	P
+master adventure island	P
+master of darkness	P
+master smash brothers	P
+mega man 2	P
+mega man ii	P
+mercs	G
+michael jackson s moonwalker	GP
+mick and mack as the global gladiators	P
+mickey mouse castle of illusion	P
+mickey mouse land of illusion	P
+monica no castelo do dragao	P
+monkey lad	P
+monster world ii dragon no wana	P
+montezuma s revenge featuring panama joe	P
+moonwalker	P
+nemesis	H
+new zealand story	P
+newzealand story	P
+ninja gaiden	P
+noturno	P
+octo unleashed	P
+ottifants	P
+penguin land	P
+power strike	V
+power strike ii	V
+prince of persia	P
+psychic world	P
+psycho fox	P
+psyco fox	P
+pyramid escape	P
+quartet	P
+quest for the shaven yak starring ren ho k and stimpy	P
+quest for the shaven yak starring ren hoek and stimpy	P
+r type	H
+rainbow islands	P
+rainbow islands story of the bubble bobble 2	P
+rambo first blood part ii	G
+rastan	P
+rastan saga	P
+rayman retro rumble	P
+ristar	P
+ristar the shooting star	P
+robocop 3	P
+robocop versus the terminator	GP
+robocop vs terminator	P
+rockman 2	P
+s tio do picapau amarelo	P
+sapo xul o mestre do kung fu	P
+sapo xul vs os invasores do brejo	P
+sapo xule o mestre do kung fu	P
+sapo xule the master of kung fu	P
+sapo xule vs os invasores do brejo	P
+sapo xule vs the swamp invaders	P
+schtroumpfs autour du monde les	P
+scramble spirits	V
+sdi	H
+shadow dancer the secret of shinobi	P
+shadow dancer the secret of shinobi shadow dancer	P
+shadow of the beast	P
+shinobi	P
+shinobi the real ninja	P
+silver valley	P
+simpsons bart vs the space mutants	P
+simpsons bart vs the world	P
+sitio do picapau amarelo	P
+smurfs	P
+smurfs 2	P
+smurfs travel the world	P
+snappy sn rg and the seven silver stones	P
+snappy snorg and the seven silver stones	P
+solomon no kagi oujo rihita no namida	P
+solomon s key	P
+solomon s key tears of princess lihita	P
+sonic 1 triple trouble	P
+sonic 2	P
+sonic 2 remastered	P
+sonic blast	P
+sonic chaos	P
+sonic genesis	P
+sonic genesis for master system	P
+sonic labyrinth	P
+sonic the hedgehog	P
+sonic the hedgehog 2	P
+sonic the hedgehog 2 frenzy	P
+sonic the hedgehog 2 frenzy mod	P
+sonic the hedgehog 2 re mastered	P
+sonic the hedgehog 2 remastered	P
+sonic the hedgehog chaos	P
+sonic the hedgehog genesis	P
+sonic the hedgehog genesis mod	P
+sonic the hedgehog gg2sms	P
+sonic the hedgehog perfect system	P
+sonic the hedgehog triple trouble	P
+sonic triple trouble	P
+spider man	P
+spider man return of the sinister six	P
+spider man vs the kingpin	P
+spiderman return of the sinister six	P
+star wars	P
+strider	P
+strider ii	P
+super bioman i	P
+super boy 4	P
+super boy i	P
+super boy ii	P
+super boy iii	P
+super boy iv	P
+super mario bros	P
+super wonder boy	P
+super wonder boy monster world	P
+super wonder boy wonder boy	P
+superman the man of steel	P
+sushi nights	P
+suwang gi	P
+sydney hunter and the caverns of death	P
+sydney hunter and the sacred tribe	P
+sydney hunter the sacred tribe	P
+t2 the arcade game	P
+taz in escape from mars	P
+taz mania	P
+teddy boy	P
+teddy boy blues	P
+teddyboy blues	P
+terminator	P
+terminator 2 judgment day	P
+time soldiers	G
+tom and jerry the movie	P
+toto world 3	P
+transbot	H
+treinamento do mymo	P
+turma da m nica em o resgate	P
+turma da monica em o resgate	P
+vampire master of darkness	P
+voyage a sorceress vacation	P
+walt disney s the jungle book	P
+wolfchild	P
+wonder boy	P
+wonder boy 5 wonder boy in monster world	P
+wonder boy iii the dragon s trap	P
+wonder boy in monster land	P
+wonder boy in monster world	P
+x men mojo world	P
+xenon 2 megablast	V
+y kai ninja	P
+yeonglihan neoguli guggaui suhoja	P
+yokai ninja	P
+yuyryeong ui jip	P
+ze legende of oliv	P
+zillion	P
+zool ninja of the nth dimension	P

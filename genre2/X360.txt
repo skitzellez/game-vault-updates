@@ -1,0 +1,40 @@
+1942 joint strike	V
+aegis wing	H
+akai katana	HV
+bangai o hd missile fury	V
+bionic commando	G
+bionic commando rearmed 2	G
+blast off	V
+capsized	G
+castle of shikigami iii	V
+choplifter hd	H
+contra	G
+deathsmiles	HV
+defender	H
+dodonpachi saidaioujou	V
+duke nukem manhattan project	G
+earthworm jim hd	G
+final exam	G
+gauntlet	H
+gunstar heroes	G
+guwange	V
+hard corps uprising	G
+heavy weapon	H
+ikaruga	V
+kof sky stage	G
+omega five	H
+overkill	V
+radiant silvergun	V
+raiden fighters aces	V
+raiden iv	V
+scramble	H
+shoot many robots	H
+sine mora	H
+snops attack zombie defense	V
+super contra	G
+super time force	G
+timeslip	H
+triggerheart exelica	V
+weapon of choice	G
+wolf of the battlefield commando 3	G
+xenocide	G

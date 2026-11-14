@@ -1,0 +1,10 @@
+alien breed	G
+downwell	V
+fast striker	V
+gunslugs	G
+nuclear throne	V
+rabi ribi	V
+resogun	H
+sine mora	H
+super star wars	G
+ultracore	G

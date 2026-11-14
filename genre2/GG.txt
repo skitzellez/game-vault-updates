@@ -1,0 +1,190 @@
+addams family	P
+adventures of batman and robin	GP
+aerial assault	H
+aladdin	P
+alex kidd in miracle world	P
+alien 3	G
+alien syndrome	G
+amy chaos	P
+amy rose in sonic chaos	P
+amy rose in sonic triple trouble	P
+ast rix and the great rescue	P
+ast rix and the secret mission	P
+asterix and the great rescue	P
+asterix and the secret mission	P
+bart vs the space mutants	P
+bart world	P
+batman returns	P
+battletoads	P
+berlin no kabe	P
+berlin wall	P
+bishoujo senshi sailor moon s	P
+bonkers wax up	P
+bram stoker s dracula	P
+bubble bobble	P
+bugs bunny in double trouble	P
+castle of illusion starring mickey mouse	P
+cave dude	P
+chakan	P
+chakan the forever man	P
+cheese cat astrophe starring speedy gonzales	P
+choplifter iii	H
+chuck rock	P
+chuck rock ii son of chuck	P
+cj elephant fugitive	P
+coca cola kid	P
+cokey adventures in cokeland	P
+cool spot	P
+daffy duck in hollywood	P
+deep duck trouble starring donald duck	P
+demon child zenki	P
+desert speedtrap starring road runner and wile e coyote	P
+die schl mpfe	P
+dinobasher starring bignose the caveman	P
+disney s aladdin	P
+disney s bonkers wax up	P
+donald duck no 4 tsu no hihou	P
+donald duck no lucky dime	P
+donald duck no yottsu no hihou	P
+donald no magical world	P
+doraemon noranosuke no yabou	P
+dr franken	P
+dropzone	H
+dynamite headdy	GP
+earthworm jim	GP
+ecco ii the tides of time	P
+ecco the dolphin ii	P
+ecco the tides of time	P
+el rey le n	P
+escape from mars starring taz	P
+fantastic dizzy	P
+fantasy zone	H
+fire of robollion	P
+g sonic	P
+g sonic sonic blast	P
+garfield caught in the act	P
+gg aleste	V
+gg aleste 3	V
+gg doraemon noranosuke no yabou	P
+gg shinobi	P
+gg shinobi ii	P
+gg shinobi part ii the silent fury	P
+global gladiators	P
+greendog the beached surfer dude	P
+gunstar heroes	G
+hopman mini	P
+hurricanes	P
+i puffi	P
+in the wake of vampire	P
+incredible hulk	P
+iron man x o manowar in heavy metal	P
+itchy and scratchy game	P
+james bond 007 the duel	P
+james pond 2 codename robocod	P
+james pond 3 operation starfi5h	P
+james pond 3 operation starfish	P
+james pond ii codename robocod	P
+journey from darkness strider returns	P
+judge dredd	P
+jungle book	P
+kenyuu densetsu yaiba	P
+kishin d ji zenki	P
+kishin douji zenki	P
+krusty s fun house	P
+land of illusion starring mickey mouse	P
+last action hero	P
+legend of illusion starring mickey mouse	P
+les schtroumpfs	P
+les schtroumpfs autour du monde	P
+lion king	P
+los pitufos	P
+los pitufos travel the world	P
+lucky dime caper	P
+lucky dime caper starring donald duck	P
+man overboard	P
+marko s magic football	P
+master of darkness	P
+mega man	GP
+mick and mack as the global gladiators	P
+mickey mouse densetsu no oukoku legend of illusion	P
+mickey mouse no castle illusion	P
+mickey mouse no mahou no crystal	P
+mickey s ultimate challenge	P
+ninja gaiden	P
+ottifants	P
+pac in time	P
+phantom 2040	P
+power strike ii	V
+pretty soldier sailor moon s	P
+prince of persia	P
+quest for the shaven yak starring ren ho k and stimpy	P
+quest for the shaven yak starring ren hoek and stimpy	P
+ren and stimpy quest for the shaven yak	P
+revenge of drancon	P
+ristar	P
+ristar ristar the shooting star	P
+ristar the shooting star	P
+robocop 3	P
+robocop versus terminator	P
+robocop versus the terminator	GP
+roll chan mini world	P
+ronald in the magical world	P
+s s lucifer man overboard	P
+sassou shounen eiyuuden coca cola kid	P
+shinobi	P
+shinobi ii the silent fury	P
+simpsons bart vs the space mutants	P
+simpsons bart vs the world	P
+simpsons bartman meets radioactive man	P
+simpsons krusty s fun house	P
+smurfs	P
+smurfs travel the world	P
+sonic	P
+sonic 1	P
+sonic 2	P
+sonic and tails	P
+sonic and tails 2	P
+sonic blast	P
+sonic chaos	P
+sonic labyrinth	P
+sonic spinball	P
+sonic the hedgehog	P
+sonic the hedgehog 2	P
+sonic the hedgehog chaos	P
+sonic the hedgehog spinball	P
+sonic the hedgehog triple trouble	P
+sonic triple trouble	P
+spider man	P
+spider man and the x men arcade s revenge	P
+spider man and x men arcade s revenge	P
+spider man return of the sinister six	P
+spider man vs the kingpin	P
+spirou	P
+star wars	P
+stargate	H
+strider ii	P
+strider returns journey from darkness	P
+super star wars return of the jedi	G
+tails adventure	P
+tails adventures	P
+tails adventures fire of robollion	P
+tails no skypatrol	P
+tails skypatrol	HP
+tarzan lord of the jungle	P
+taz in escape from mars	P
+taz mania	P
+taz mania the search for the lost seabirds	P
+tempo jr	P
+terminator	P
+tom and jerry the movie	P
+true lies	G
+vampire master of darkness	P
+wagyan land	P
+wolfchild	P
+wonder boy	P
+x men gamemaster s legacy	P
+x men gamesmaster s legacy	P
+x men mojo world	P
+yogi bear in yogi bear s goldrush	P
+zool ninja of the nth dimension	P
+zool no yume bouken	P

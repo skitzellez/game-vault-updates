@@ -1,0 +1,222 @@
+3d dotty	P
+acornsoft bouncer	P
+airwolf	H
+alien 8	P
+apocalypse	H
+armoured tom s	P
+artemidorus	P
+astro plumber	P
+bag man	P
+barrel battle	P
+beeline	P
+beverly hills cop	P
+black widow 2	P
+black widow ii	P
+blagger	P
+block blitz	P
+blockbuster	P
+boffin	P
+boffin 2	P
+bouncer	P
+bouncing bill	P
+bounty bob strikes back	P
+boxer	P
+braz	P
+bruce lee	P
+bubble bobble	P
+bug eyes	P
+bug eyes 2 starman to the rescue	P
+bug eyes ii	P
+bug eyes ii starman to the rescue	P
+candle light	P
+castle assault	P
+chopper	H
+christmas lights	P
+chuckie egg	P
+chuckulus	P
+citadel	P
+citadel 2	P
+citadel revenge	P
+codename droid	P
+codename droid stryker s run part 2	P
+commando	G
+condition red	P
+contraption	P
+corporate climber	P
+crazy caves	P
+crazy er bert	P
+creepy cave	P
+crypt capers	P
+cubit	P
+cute to kill beyond infinity chapter ii	P
+dare devil dennis	P
+daredevil dennis	P
+deathwatch	G
+defender	H
+desperate dan	P
+desperate dan s dungeon	P
+doctor who and the mines of terror	P
+donkey kong	P
+donkey kong jr	P
+donkey kong junior	P
+drain mania	P
+egghead in space	P
+elementum	P
+elixir	P
+emily	P
+er bert	P
+escape from orion	P
+exile	P
+fat man sam	P
+felix in the factory	P
+felix meets the evil weevils	P
+firebug	P
+firetrack	V
+frak	P
+frogman	P
+gauntlet	H
+ghoulies	P
+ghouls	P
+ghouls of azzod	P
+ghouls revenge	P
+great wall	P
+green beret	P
+gulp	P
+hacker	P
+halley s comet	V
+hard hat harry	P
+hard hat harry 2	P
+heist	P
+hercules	P
+high rise horror	P
+hobgoblin	P
+hobgoblin ii	P
+hubert	P
+humphrey	P
+hunchback	P
+hunkidory	P
+imogen	P
+impossible mission	P
+jack and the beanstalk	P
+jack attac	P
+jack attack	P
+james bond 007 in the living daylights the computer game	P
+jeremy goes jumping	P
+jet boot jack	P
+jet power jack	P
+jet set miner	P
+jet set willy	P
+jet set willy 2021 edition	P
+jet set willy ii	P
+jetpac	P
+joe blade	P
+joey	P
+joust	P
+jouster	P
+jump guy	P
+karl s cavern	P
+karls kavern	P
+killa the upgrade	P
+killa the upgrade for killer gorilla	P
+killer gorilla	P
+killer gorilla 2	P
+krystal connection	P
+last of the free	P
+ledge man	P
+ledgeman	P
+licence to kill	V
+litterbug	P
+lode runner	P
+looney lift	P
+lunar jetman	H
+lunar rescue	H
+magic mushrooms	P
+manic miner	P
+manic miner 2021	P
+mcbrolly	P
+merry xmas santa	P
+microcosm	P
+minefield	G
+mineshaft	P
+miss fortune and the seven keys	P
+monsters	P
+morfix	P
+mountain panic	P
+mouse trap	P
+mr freeze	P
+mr wimpy the hamburger game	P
+neanderthal man	P
+nemesis	H
+network	P
+nifty lifty	P
+night world	P
+noc a bloc	P
+nutcraka	P
+odd job	P
+oddjob	P
+omega orb	P
+onslaught	P
+orcrest	P
+palace of magic	P
+pandemonium	P
+panik	P
+pantry antics	P
+plan b	P
+plan b 2	P
+plan b part 2 mission unlikely	P
+planet nubium	P
+plankwalk	P
+polar perils	P
+pooperpig	P
+predator	P
+prince of persia	P
+prison	P
+prof mcbrolly	P
+professor mcbrolly	P
+protector	H
+pyramid painter	P
+q bert	P
+q boyd	P
+q man	P
+qwak	P
+repton	H
+roboto	P
+santa s delivery	P
+scramble	H
+screwball	P
+see emily play	P
+sinbad	P
+skirmish	P
+sleighbells	P
+smash and grab	P
+son of blagger	P
+sorcery	P
+spooks and spiders	P
+springfyren	P
+squeakaliser	P
+stairway to hell	P
+star wars the empire strikes back	H
+syncron	V
+tales of the arabian nights	P
+tarzan	P
+templeton	P
+timeslip	H
+tombs of tutankhamen	P
+tomcat	V
+tutankhamun s revenge	P
+uridium	H
+vertigo	P
+vindaloo	P
+wallaby	P
+wallie s castle	P
+wee shuggy	P
+weenies	P
+winged warlords	P
+wizadore	P
+wizzy s mansion	P
+woks	P
+wongo	P
+yoyo	P
+zany kong	P
+zany kong junior	P
+zelda meets the bug eyes	P

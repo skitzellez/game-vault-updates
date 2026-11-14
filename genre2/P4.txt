@@ -1,0 +1,87 @@
+a 07	P
+adventure park	P
+adventures in time	P
+airwolf	H
+aladin	P
+alfred	P
+alien invasion	P
+apollo mission	P
+apollo rescue	P
+astro plumber	P
+auf wiedersehen monty	P
+big mac	P
+blagger	P
+bomb jack	P
+bongo	P
+booty	P
+bridgehead	P
+bridgehead legionnaire 2	P
+cave fighter	P
+chip factory	P
+climb it	P
+commando	G
+corman	P
+dark tower	P
+dirty den	P
+exploits of fingers malone	P
+finders keepers	P
+fingers malone	P
+fire ant	P
+fury	P
+future knight	P
+ghosts n goblins	GP
+green beret	P
+hektik	P
+hercules	P
+ikari warriors	G
+jack attack	P
+jail break	G
+jet set willy	P
+jet set willy ii	P
+joe blade 2	P
+joe blade ii	P
+joey	P
+jumper	P
+leaper	P
+leapin louie	P
+loco co co	P
+loco coco	P
+manic death chase	P
+manic miner	P
+mayhem	P
+monkey magic	P
+monty on the run	P
+more adventures of big mac the mad maintenance man	P
+mr puniverse	P
+number builder	P
+out on a limb	P
+pancho	P
+panik	P
+panik 16	P
+pets rescue	P
+phil s adventure	P
+pin point	P
+pizza pete	P
+powerball	P
+punchy	P
+rambo	G
+robin to the rescue	P
+robo knight	P
+rock alley	P
+roller kong	P
+runner	P
+rush n attack	P
+saboteur	P
+scooby doo	P
+scramble	H
+sgt helmet zero	P
+spiky harold	P
+splitz	P
+super gran	P
+sword of destiny	P
+timeslip	H
+tom thumb	P
+tomb of tarrabash	P
+tomcat	V
+tube runner	P
+varmit	P

@@ -1,0 +1,7 @@
+border down	H
+castle shikigami 2	V
+chaos field	V
+giga wing 2	V
+ikaruga	V
+karous	V
+triggerheart exelica	V

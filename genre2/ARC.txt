@@ -1,0 +1,871 @@
+119	P
+1941 counter attack	V
+1942	V
+1943 the battle of midway	V
+1944 the loop master	V
+19xx the war against destiny	V
+4 d warriors	H
+a jax	V
+acrobat mission	V
+act fancer cybernetick hyper weapon	P
+act raiser	P
+actraiser	P
+addams family	P
+aero fighters	V
+aero fighters 2	V
+aero fighters 3	V
+air buster	H
+air duel	V
+air gallet	V
+airwolf	H
+akai katana	HV
+akuma jou dracula	P
+akumajou dracula	P
+aladdin	P
+aladdin bootleg	P
+alex kidd the lost stars	P
+alien syndrome	G
+aliens	G
+alpha 1	P
+alpha mission	V
+alpha mission ii	V
+altered beast	P
+amazing adventures of mr f lea	P
+amazing adventures of mr f lea and his friends	P
+angel kids	P
+animal catch	P
+arabian	P
+arbalester	V
+argus	V
+argus no senshi	P
+armed police batrider	V
+arrow flash	H
+astro warrior	V
+astyanax	P
+athena	P
+athena athena s wonder land	P
+atomic boy	P
+atomic robo kid	H
+atomic runner chelnov	P
+atomic runner chelnov nuclear man	P
+avenging spirit	P
+b c kid	P
+b c kid bonk s adventure kyukyoku pc genjin	P
+b wings	V
+bad dudes	P
+bad dudes vs dragon ninja	P
+bad dudes vs dragonninja	P
+bagman	P
+ball boy	P
+ball boys	P
+balloon fight	P
+baluba louk no densetsu	P
+bang 2 busters	P
+bang bang busters	P
+bang busters	P
+baraduke	G
+baraduke ii	H
+batsugun	V
+battle bakraid	V
+battle chopper	H
+battle garegga	V
+bay route	P
+beastie feastie	P
+beathead	P
+ben bero beh	P
+beraboh man	P
+berlin wall	P
+bermuda triangle	V
+big karnak	P
+big kong	P
+bio hazard battle	H
+bio ship paladin	H
+biomechanical toy	GP
+bionic commando	GP
+bionic commandos	P
+birdiy	P
+black dragon	P
+black heart	H
+black panther	P
+black tiger	P
+blast off	V
+blazeon	H
+blazing lazers	V
+blazing star	H
+bloody wolf	G
+blue s journey	P
+blue s journey raguy	P
+bobble bobble	P
+bogey manor	P
+boggy 84	P
+bomb jack	P
+bomb jack twin	P
+bomb kick	P
+bombjack twin	P
+bonanza bros	P
+bonanza brothers	P
+bongo	P
+bonk s adventure	P
+bonze adventure	P
+boogie wings	H
+border down	H
+bristles	P
+bubble bobble	P
+bubble bobble 2	P
+bubble bobble ii	P
+bubble bobble lost cave	P
+bubble bobble lost cave v1 0	P
+bubble bobble lost cave v1 1	P
+bubble bobble lost cave v1 2	P
+bubble memories the story of bubble bobble iii	P
+bubble pong pong	P
+bubble symphony	P
+bucky o hare	G
+burger time	P
+burgertime	P
+buster bros	P
+buster buddies	P
+bygone	P
+cactus	P
+cadash	P
+candory	P
+cannon dancer	P
+captain silver	P
+carrier air wing	H
+castle shikigami 2	V
+castlevania	P
+castlevania arcade	P
+castlevania haunted castle	P
+catt	P
+caveman ninja	P
+caveman ninja joe and mac	P
+chack n pop	P
+chameleon	P
+chaos field	V
+chaos heat	P
+charlie ninja	P
+chelnov atomic runner	P
+chiki chiki boys	P
+china gate	P
+chip n dale rescue rangers	P
+choky choky	P
+choplifter	H
+chopper	H
+chopper i	V
+chou zetsurinjin berabowman	P
+chouzetsu rinjin bravoman	P
+circus charlie	P
+city connection	P
+cloud master	H
+cobra command	H
+come back toto	P
+commando	G
+complex x	P
+congo bongo	P
+congorilla	P
+contra	GP
+contra 3 the alien wars	P
+contra evolution	P
+contra evolution revolution	P
+cop 01	GP
+cosmic avenger	H
+cosmo police galivan	GP
+cotton	H
+cotton fantastic night dreams	H
+crazy kong	P
+crazy kong part ii	P
+crazy kong pt2 dk graphics	P
+crime city	GP
+crude buster	P
+cruisin	P
+cuby bop	P
+cyber lip	G
+cycle maabou	P
+dai ressya goutou	P
+daiku no gen san beranme ch s d ki	P
+daiku no gensan	P
+daimakaimura	P
+daioh	V
+dangerous seed	V
+dangun feveron	V
+darius	H
+darius gaiden	H
+darius ii	H
+dark tower	P
+darwin 4078	V
+deathsmiles	HV
+deathsmiles ii	H
+defender	H
+demon front	GP
+demon front moyu zhanxian	P
+demon s world	GP
+demon s world horror story	P
+desert assault	G
+diet go go	P
+dimahoo	V
+diver boy	P
+dk bros	P
+dkbros	P
+dkbros 2 player	P
+do not fall run for your drink	P
+dock man	P
+dodonpachi	V
+dodonpachi daioujou	V
+dodonpachi saidaioujou	V
+dogyuun	V
+doki doki penguin land	P
+dolphin blue	P
+donggul donggul haerong	P
+donkey king jr	P
+donkey kong	P
+donkey kong 2 jumpman returns	P
+donkey kong 3	P
+donkey kong accelerate	P
+donkey kong anniversary edition	P
+donkey kong barrelpalooza	P
+donkey kong championship edition	P
+donkey kong christmas remix	P
+donkey kong duel	P
+donkey kong foundry	P
+donkey kong hearthunt	P
+donkey kong ii jumpman returns	P
+donkey kong into the dark	P
+donkey kong jr	P
+donkey kong junior	P
+donkey kong on the run	P
+donkey kong pac man crossover	P
+donkey kong pauline edition	P
+donkey kong randomized edition	P
+donkey kong reverse	P
+donkey kong rndmzr	P
+donkey kong twisted jungle	P
+donkey kong wizardry	P
+donpachi	V
+doodle jump arcade	P
+double donkey kong	P
+dr micro	P
+dracula s castle	P
+dragon blaze	V
+dragon breed	H
+dragon buster	P
+dragon saber	V
+dragon spirit	V
+dragonninja	P
+dream world	P
+dyna gear	P
+dyna gear an action adventure on the era of dinosaur	P
+dynamite bomber	P
+earth defense force	H
+eco fighters	H
+eeekk	P
+elevator action	P
+elevator action ii	P
+elevator action returns	GP
+eliminator	H
+esp ra de	V
+espgaluda	V
+espgaluda ii	V
+eswat city under siege	P
+evil stone	P
+express raider	P
+exzisus	H
+fairyland story	P
+fancy world earth of crisis	P
+fantasy land	P
+fantasy zone	H
+fantasy zone ii the tears of opa opa	H
+fast striker	V
+faster harder more challenging q bert	P
+fester s quest	G
+fhmc q bert	P
+fighter and attacker	V
+fighting hawk	V
+final star force	V
+finest hour	GP
+fire shark	V
+fix it felix jr	P
+fix it felix junior	P
+fixeight	G
+flashgal	G
+flicky	P
+flip and flop	P
+flying shark	V
+forgotten worlds	H
+formation armed f	V
+formation z	H
+frantic fred	P
+frogs	P
+funky jet	P
+funny mouse	P
+g darius	H
+g i joe	G
+galivan	P
+ganryu	P
+ganryu musashi ganryuki	P
+gauntlet	H
+gekirindan	V
+gemini wing	V
+genpei toumaden	P
+geo storm	P
+ghost pilots	V
+ghosts n goblins	GP
+ghouls n ghosts	GP
+giga wing	V
+giga wing 2	V
+ginga ninkyouden	P
+gladiator 1984	P
+glob	P
+goonies	P
+gradius	H
+gradius ii	H
+grasspin	P
+green beret	P
+grid seeker project storm hammer	V
+grind stormer	V
+gryzor	P
+guerrilla war	G
+gun force ii	P
+gun frontier	V
+gun smoke	V
+gunbird	V
+gunbird 2	V
+gunforce	GP
+gunforce battle fire engulfed terror island	P
+gunforce ii	GP
+gunlord	GP
+gunstar heroes	G
+guwange	V
+gyrodine	V
+halley s comet	V
+hamburger	P
+hammerin harry	P
+hard head	P
+hard head 2	P
+haunted castle	P
+head panic	P
+heavy barrel	G
+heavy unit	H
+hellfire	H
+high seas havoc	P
+hong tian lei	P
+hopper robo	P
+hopping mappy	P
+horror story	P
+hunchback	P
+hyper duel	H
+hyper dyne side arms	H
+ibara	V
+ice climber	P
+iga ninjutsu den goshin no sho	P
+iga ninjyutsuden	P
+ikari warriors	G
+ikaruga	V
+image fight	V
+indiana jones and the temple of doom	P
+insector x	H
+iron horse	P
+ironclad	H
+j j squawkers	P
+jack rabbit	P
+jack the giantkiller	P
+jackal	G
+jail break	G
+jigoku meguri	P
+joe and mac	P
+joe and mac caveman ninja	P
+joe and mac returns	P
+joust	P
+joust 2 survival of the fittest	P
+jt 104	P
+juju densetsu	P
+jump bug	P
+jump coaster	P
+jump jump	P
+jump kids	P
+jump kun	P
+jumping	P
+jumping jack	P
+jumpman	P
+jungle boy	P
+jungle hunt	P
+jungle king	P
+juno first	V
+juuouki	P
+kaiketsu yanchamaru	P
+kaitou tachi no karei na gogo	P
+kangaroo	P
+kaos	P
+karnov	P
+karnov arcade	P
+karous	V
+kdynastg	P
+keith courage in alpha zones	P
+ketsui kizuna jigoku tachi	V
+kicker	P
+kid chameleon	P
+kid niki radical ninja	P
+killer queen	P
+killer queen arcade	P
+king of dynast gear	P
+kingdom grand prix	V
+knuckle joe	P
+kof sky stage	G
+kon to ra	P
+konek gorbunok	P
+kong	P
+koutetsu yousai strahl	H
+kung fu taikun	P
+kuri kinton	P
+kuzmich egorych	P
+kyukyoku pc genjin	P
+labyrinth runner	G
+lady killer	P
+lady master of kung fu	P
+land sea air squad	G
+last duel	V
+last hope	H
+last resort	H
+le bagnard	P
+legend of hero tonma	P
+legend of kage	P
+legend of makai	P
+legendary wings	G
+lethal weapon	P
+levers	P
+lightning fighters	V
+liquid kids	P
+little robin	P
+lode runner	P
+lode runner ii the bungeling strikes back	P
+lode runner iii majin no fukkatsu	P
+lode runner iii the golden labyrinth	P
+lode runner iv teikoku karano dasshutsu	P
+lode runner the dig fight	P
+logger	P
+lord of king	P
+lunar rescue	H
+m i a missing in action	P
+m rchen maze	P
+mad shark	V
+magic purple	P
+magical cat adventure	P
+magician lord	P
+magmax	H
+maikai densetsu	P
+major havoc	P
+makai densetsu	P
+makai mura	P
+makaimura	P
+mappy	P
+marble madness	P
+marchen maze	P
+mario bros	P
+markham	H
+mars matrix	V
+mashin eiy den wataru	P
+mashin hero wataru	P
+master of weapon	V
+mazinger z	V
+mega man 3	P
+mega man iii	P
+mega twins	P
+mega zone	V
+mello yello q bert	P
+mercs	G
+metal black	H
+metal freezer	P
+metal saver	P
+metal slug	GP
+metal slug 1	P
+metal slug 2	P
+metal slug 2 super vehicle 001 ii	P
+metal slug 3	P
+metal slug super vehicle 001	P
+metal slug x	P
+metal slug x super vehicle 001	P
+metaru suraggu	P
+metroid	P
+michael jackson s moonwalker	G
+midnight resistance	GP
+mighty guy	G
+milk chan	P
+milkchan	P
+minefield	G
+minky monkey	P
+miracle adventure	P
+mirai ninja	P
+miss bubble ii	P
+mission 660	V
+mizubaku daibouken	P
+moeyo gonta	P
+momoko 120	P
+monkey ball	P
+monkeyba	P
+monster bash	GP
+monster farm jump	P
+monster rancher	P
+moon patrol	H
+moon shuttle	H
+moon war	H
+moyu zhanxian	P
+mr do s castle	P
+mr do s wild ride	P
+mr do vs unicorns	P
+mr driller	P
+mr f lea	P
+mr goemon	P
+mr kabuki	P
+mr kougar	P
+musashi ganryuki	P
+mutant night	P
+mx5000	V
+mystic defender	P
+mystic warriors	GP
+mystic warriors wrath of the ninjas	P
+narc	G
+nastar	P
+nastar warrior	P
+naughty mouse	P
+naughty mouse woodpecker	P
+nebulasray	V
+nemesis	H
+nemo	P
+new zealand story	P
+newzealand story	P
+nightmare in the dark	P
+ninja commando	G
+ninja emaki	G
+ninja gaiden episode ii the dark sword of chaos	P
+ninja gaiden episode iii the ancient ship of doom	P
+ninja kazan	P
+ninja kid ii	P
+ninja kid ninjakun majou no bouken	P
+ninja kun majou no bouken	P
+ninja ryukenden 3 yomi no hakobune	P
+ninja ryuukenden ii ankoku no jashinken	P
+ninjakun ashura no shou	P
+ninjakun majou no bouken	P
+noboranka	P
+nosferatu lilinor	P
+nostradamus	V
+number crash	P
+nunchackun	P
+ollie king	P
+omega fighter	V
+ordyne	H
+osman	P
+otenki paradise	P
+otomedius	H
+out zone	G
+outfoxies	P
+p 47 aces	H
+p 47 the phantom fighter	H
+pac land	P
+pandora s palace	P
+pang	P
+pang 3	P
+pang pang	P
+pang pom s	P
+penguin brothers	P
+peter pack rat	P
+peter pepper s ice cream factory	P
+phantasm	P
+phelios	V
+pig newton	P
+pig out	P
+pig out dine like a swine	P
+pink panther jewel heist	P
+pipi and bibis	P
+pipi and bibis whoopee	P
+pirate pete	P
+pitfall ii lost caverns	P
+pitfall ii the lost caverns	P
+platoon	G
+poko nyan	P
+pokonyan balloon	P
+pollux	V
+pomping world	P
+ponpoko	P
+popeye	P
+popper	P
+port man	P
+power blade	P
+prehistoric isle	H
+progear	H
+protector	H
+psychic 5	P
+psycho nics oscar	GP
+pulstar	H
+pyros	P
+q bert	P
+q bert s qubes	P
+qbert	P
+quartet	P
+quartet 2	P
+r and t	P
+r type	H
+r type ii	H
+r type leo	H
+raccoon world	P
+rad action	P
+radiant silvergun	V
+raguy	P
+raiden	V
+raiden fighters	V
+raiden fighters jet	V
+raiden ii	V
+raiden iii	V
+raiden iv	V
+rainbow islands	P
+rainbow islands extra version	P
+rainbow islands the story of bubble bobble 2	P
+rambo	G
+rastan	P
+rastan saga	P
+rastan saga 2	P
+rastan saga ii	P
+raycrisis	V
+raystorm	V
+recalhorn	P
+red robin	P
+revenge of shinobi	P
+rezon	H
+rick dangerous dx	P
+robocop	G
+robocop 2	P
+robocop 3	P
+roc n rope	P
+rockin kats	P
+rod land	P
+rodland	P
+rohga armor force	GP
+rolling thunder	GP
+rolling thunder 2	GP
+rough ranger	P
+rush n attack	P
+rygar	P
+rygar legendary warrior	P
+s o s	P
+s p y special project y	P
+saboten bombers	P
+sai yu gou ma roku	P
+saint dragon	H
+saiy g ma roku ry b y gi no sh	P
+salamander	H
+salamander 2	H
+samurai aces	V
+savage bees	V
+scion	V
+scorpion	G
+scramble	H
+scramble formation	V
+scramble spirits	V
+sd gundam knights of the three rainbow kingdoms	P
+sd gundam sangokushi rainbow tairiku senki	P
+sea hunter penguin	P
+secret agent	P
+section z	H
+sega ninja	G
+segasonic the hedgehog	P
+sexy parodius	H
+shadow dancer	P
+shadow warriors ii the dark sword of chaos	P
+shadowland	P
+shao lin s road	P
+sheriff	G
+shienryu	V
+shinobi	P
+shinobi arcade	P
+shinobi fz 2006	P
+shinobi iii	P
+shock troopers	G
+shock troopers 2nd squad	G
+sidewinder	V
+silk worm	H
+skate kid bros	P
+sky kid	H
+sky soldiers	V
+slap fight	V
+sly spy	GP
+sly spy secret agent	P
+snap jack	P
+snow bros 2 with new elves	P
+snow bros 2 with new elves otenki paradise	P
+snow bros nick and tom	P
+snow brothers 3 magical adventure	P
+sokonuke taisen game	P
+sol divide	H
+solar warrior	P
+soldier girl amazon	V
+solomon no kagi	P
+solomon s key	P
+son son	P
+sonic boom	V
+sonic dash extreme	P
+sonic the hedgehog	P
+sonic the hedgehog 2	P
+sonson	GP
+sorcer striker	V
+space panic	P
+space seeker	H
+spark man	P
+spelunker	P
+spelunker ii	P
+spelunker ii 23 no kagi	P
+spica adventure	P
+spider man the video game	P
+spider man the videogame	P
+spider man vs the kingpin	P
+spin master	P
+spin master miracle adventure	P
+spinmaster	P
+springer	P
+srd super real darwin	V
+star blazer	H
+star force	V
+star wars the empire strikes back	H
+stargate	H
+stinger	H
+strider	P
+strider 2	P
+strider hiryu	P
+strider hiryu 2	P
+strike force	H
+strike gunner s t g	V
+strikers 1945	V
+strikers 1945 ii	V
+strikers 1945 iii	V
+strikers 1945 plus	V
+sunset riders	GP
+super bagman	P
+super bubble 2003	P
+super bubble bobble md	P
+super burger time	P
+super burgertime	P
+super c	P
+super cobra	H
+super contra	GP
+super contra alien no gyakushuu	P
+super glob	P
+super mario bros	P
+super mario bros 2	P
+super mario bros 3	P
+super mario world	P
+super mouse	P
+super ranger	P
+super rider	P
+super shinobi	P
+super spacefortress macross	V
+super trio	P
+super xevious gamp no nazo	V
+surprise attack	GP
+tang tang	P
+tappy and rappy	P
+task force harrier	V
+tatakae big fighter	H
+tatakae genshizin joe and mac	P
+teddy boy	P
+teddyboy blues	P
+tengai	H
+tenkomori shooting	P
+terra cresta	V
+terra force	HV
+th strikes back	P
+thunder cross	H
+thunder cross ii	H
+thunder dragon	V
+thunder dragon 2	V
+thunder fox	HP
+thunder hoop	P
+thundercade	V
+thunderjaws	P
+tiger heli	V
+tiger road	P
+timber	P
+time limit	P
+time soldiers	G
+tiny toon adventure	P
+tip top	P
+toki	GP
+tomcat	V
+top hunter roddy and cathy	P
+top roller	P
+top secret	P
+toppy and rappy	P
+tora e no michi	P
+tora he no michi	P
+tower and shaft	P
+tower and shaft aleck bordon no fuyukai na nakamatachi	P
+toy land adventure	P
+transbot	H
+tricky doc	P
+triggerheart exelica	V
+trio the punch never forget me	P
+truxton	V
+truxton ii	V
+tumble pop	P
+tumblepop	P
+turbo force	V
+twin cobra	V
+twin cobra ii	V
+twin eagle	V
+twin hawk	V
+twinbee	V
+twinkle star sprites	V
+two crude	P
+u n squadron	H
+ufo robo dangar	V
+ultra balloon	P
+umihara kawase fresh for ac	P
+usaaf mustang	H
+valtric	V
+vapor trail hyper offence formation	V
+varth operation thunderstorm	V
+vastar	H
+versus super mario bros	P
+victory road	G
+video vince and the game factory	P
+vimana	V
+viper phase 1	V
+vs balloon fight	P
+vs castlevania	P
+vs ice climber	P
+vs ice climber dual	P
+vs mighty bomb jack	P
+vs ninja jajamaru kun	P
+vs platoon	P
+vs skate kids	P
+vs super mario bros	P
+vs the goonies	P
+vs wrecking crew	P
+vulgus	V
+wall street	P
+wardner	P
+wardner no mori	P
+western express	P
+whoopee	P
+wild west c o w boys of moo mesa	G
+willow	GP
+wily tower	P
+wiz	GP
+wolf fang kuhga 2001	P
+wonder boy	P
+wonder boy deluxe	P
+wonder boy iii monster lair	GP
+wonder boy monster land	P
+woodpecker	P
+x multiply	H
+xain d sleena	P
+xenon	V
+xenophobe	G
+xexex	H
+xx mission	V
+yo noid	P
+yokai douchuuki	P
+zed blade	H
+zero wing	H
+zing zing zip	V
+zippy bug	P
+zoo keeper	P
+zupapa	P
+zwackery	P

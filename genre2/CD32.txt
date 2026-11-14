@@ -1,0 +1,13 @@
+alien 3	G
+alien breed tower assault	G
+apidya	H
+banshee	V
+chaos engine	G
+ghosts n goblins	G
+hybris	V
+jetstrike	H
+saint dragon	H
+swiv	V
+toki	G
+walker	H
+xenon 2 megablast	V

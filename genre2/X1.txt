@@ -1,0 +1,36 @@
+1942	V
+aztec x	P
+brain breaker	P
+castle	P
+castle excellent	P
+chack n pop	P
+choplifter	H
+door door	P
+elevator action	P
+flicky	P
+formation z	H
+gegege no kitarou	P
+goonies	P
+gradius	H
+gyrodine	V
+harvest	P
+holy grail	P
+ice climber	P
+kage no densetsu	P
+kagiri naki tatakai	P
+kagirinaki tatakai	GP
+king s knight	V
+laptick	P
+legend of kage	P
+lode runner	P
+mario bros special	P
+max 01g	P
+miner 2049er	P
+pop balloon	P
+punch ball mario bros	P
+sofia	P
+super mario bros special	P
+thexder	GP
+thunder force	H
+woody poco	P
+zeliard	P

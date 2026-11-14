@@ -1,0 +1,6 @@
+alien hominid	G
+blowout	G
+chaos field	V
+defender	H
+freedom fighters	H
+ikaruga	V

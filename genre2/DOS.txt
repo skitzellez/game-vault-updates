@@ -1,0 +1,81 @@
+a jax	V
+abuse	G
+airstrike	H
+alien breed	G
+alien breed tower assault	G
+alien rampage	G
+alien syndrome	G
+aliens	G
+arctic moves	G
+armor alley	H
+army moves	H
+attack of the mutant camels	H
+bedlam	G
+bio menace	G
+bionic commando	G
+blast off	V
+blood money	H
+chaos engine	G
+commando	G
+contra	G
+crime city	G
+cybergenic ranger secret of the seventh planet	G
+defender	H
+die hard	G
+dragon spirit	V
+earthworm jim	G
+earthworm jim 2	G
+fire hawk thexder the second contact	G
+forgotten worlds	H
+gauntlet	H
+ghosts n goblins	G
+godfather	G
+guerrilla war	G
+heavy barrel	G
+ikari warriors	G
+imperium	V
+jackal	G
+jazz jackrabbit	G
+jetstrike	H
+juno first	V
+katharsis	H
+last eichhof	V
+mdk	G
+mega man	G
+menace	H
+metal slug	G
+mission impossible	G
+monster bash	G
+moon patrol	H
+overkill	V
+platoon	G
+project x	H
+raiden	V
+rambo first blood part ii	G
+raptor call of the shadows	V
+revenge of the mutant camels	H
+river raid	V
+robocop	G
+scramble	H
+sea dragon	H
+sidewinder	V
+slordax the unknown enemy	V
+sopwith	H
+star dust	V
+stargate	H
+stargunner	H
+starray	H
+steel empire	H
+super contra	G
+super star wars	G
+thexder	G
+turrican ii the final fight	G
+tyrian	V
+uridium	H
+willow	G
+wings of fury	H
+wizball	H
+xatax	H
+xenocide	G
+xenon	V
+xenon 2 megablast	V

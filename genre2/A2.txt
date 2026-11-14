@@ -1,0 +1,113 @@
+acid trap	P
+acid trip	P
+alien mind	G
+aliens	G
+apple cider spider	P
+apple panic	P
+aquatron	H
+aztec	P
+bad dudes	P
+batman the caped crusader	P
+beer run	P
+bruce lee	P
+bubble bobble	P
+burgertime	P
+california raisins	P
+california raisins and the cereal factory	P
+cannonball blitz	P
+canyon climber	P
+cavern creatures	V
+championship lode runner	P
+choplifter	H
+chrono warrior	P
+commando	G
+conan	P
+conan hall of volta	P
+congo bongo	P
+crisis mountain	P
+cubit	P
+dangerous dave	P
+dangerous dave in the deserted pirate s hideout	P
+dangerous dave in trophy trouble	P
+dark castle	P
+defender	H
+dino eggs	P
+dino smurf	P
+donkey kong	P
+drol	P
+eliminator	H
+flak	V
+gauntlet	H
+gorgon	H
+h e r o	P
+h e r o helicopter emergency rescue operation	P
+hallowe en	P
+hard hat mack	P
+heavy barrel	G
+heist	P
+helicopter emergency rescue operation	P
+hero	P
+ikari warriors	G
+impossible mission	P
+impossible mission ii	P
+indiana jones and the temple of doom	P
+j bird	P
+jumpman	P
+jungle hunt	P
+kid niki radical ninja	P
+laser force	P
+lode runner	P
+lunar leeper	H
+mabel s mansion	P
+mario bros	P
+matterhorn screamer	P
+miner 2049er	P
+miner 2049er ii	P
+miner ii	P
+mission impossible	G
+monster mash	P
+monster smash	P
+montezuma s revenge	P
+moon patrol	H
+mr cool	P
+mr do	P
+mr robot	P
+mr robot and his robot factory	P
+out of this world	P
+pharaoh s revenge	P
+pitfall ii lost caverns	P
+platoon	G
+prince of persia	P
+rad warrior	P
+rambo first blood part ii	G
+rastan	P
+rear guard	H
+repton	H
+rescue raiders	HP
+revenge of lode runner	P
+robocop	G
+robotics	P
+rock and scroll	P
+run for it	P
+saracen	P
+sea dragon	H
+senseless violence 1 and 2	P
+senseless violence 1 survival of the fetus	P
+senseless violence 2	P
+senseless violence 2 you use you die	P
+senseless violence i survival of the fetus	P
+senseless violence ii you use you die	P
+snoopy to the rescue	P
+south pacific quest	P
+star blazer	H
+stargate	H
+talon	P
+thexder	GP
+trolls and tribulations	P
+victory road	G
+warlock	P
+wings of fury	H
+wizard of id s wiztype	P
+xenocide	G
+zippy zombi	P
+zorro	P

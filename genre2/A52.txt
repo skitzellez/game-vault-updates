@@ -1,0 +1,44 @@
+ascend	P
+attack of the mutant camels	H
+beef drop	P
+bounty bob strikes back	P
+bristles	P
+caverns of mars	V
+choplifter	H
+congo bongo	P
+david crane s pitfall ii lost caverns	P
+defender	H
+donkey kong	P
+donkey kong junior	P
+dreadnaught factor	V
+gauntlet	H
+h e r o	P
+h e r o helicopter emergency rescue operation	P
+james bond 007	H
+joust	P
+jumpman junior	P
+jungle hunt	P
+kangaroo	P
+koffi yellow kopter	P
+looney tunes hotel	P
+mario bros	P
+montezuma s redux	P
+montezuma s revenge	P
+montezuma s revenge featuring panama joe	P
+moon patrol	H
+mountain king	P
+mr cool	P
+mr do s castle	P
+pacific coast highway	P
+pacific coast hwy	P
+pitfall ii lost caverns	P
+popeye	P
+q bert	P
+ratcatcher	P
+river raid	V
+scramble	H
+shamus case ii	P
+stargate	H
+super cobra	H
+wee ninja	P
+worm war i	V

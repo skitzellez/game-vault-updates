@@ -1,0 +1,454 @@
+102 dalmatas cachorros al rescate	P
+102 dalmatians puppies to the rescue	P
+102 dalmatiner	P
+1942	V
+2	P
+3	P
+a 20 second platformer	P
+a bug s life	P
+action man search for base x	P
+adventures of elmo in grouchland	P
+adventures of the smurfs	P
+ajxi cosmic climb	P
+akumanor gaiden dx	P
+aladdin	P
+alche mouse t	P
+alfred s adventure	P
+alice in wonderland	P
+alien 3 ripley to the rescue	P
+alley cat	P
+among us super impostor bros	P
+antz	P
+ast rix and ob lix	P
+ast rix auf der suche nach idefix	P
+ast rix search for dogmatix	P
+ast rix sulle tracce di idefix	P
+ast rix sur la trace d id fix	P
+asterix and obelix	P
+asterix en busca de idefix	P
+asterix search for dogmatix	P
+astral possession	P
+augury red code	P
+aventures de buzz l eclair les	P
+baby felix halloween	P
+balloon fight gb	P
+balloon kid	P
+basketbrawl	P
+batman chaos in gotham	P
+beauty and the beast a board game adventure	P
+benjamin bl mchen ein verr ckter tag im zoo	P
+benjamin bluemchen ein verrueckter tag im zoo	P
+bichos una aventura en miniatura	P
+binary monster 2	P
+binary monsters ii adventure of hell	P
+bionic commando elite forces	P
+blaster master enemy below	GP
+bob the builder fix it fun	P
+bounce	P
+bounced	P
+bubble frog dx	P
+buck and the cursed cartridge	P
+bugs bunny and lola bunny op ration carottes	P
+bugs bunny and lola bunny operation carrot patch	P
+bugs bunny and lola bunny operation carrots	P
+bugs bunny and lola bunny operation karotten	P
+bugs bunny crazy castle 3	P
+bugs bunny crazy castle 4	P
+bugs bunny et le chateau des catastrophes	P
+bugs bunny in crazy castle 4	P
+bulb	P
+burger time deluxe	P
+burger time deluxe colorization mod	P
+buzz lightyear of star command	P
+cairn	P
+captain buzz lightyear star command	P
+capybara quest	P
+castlevania adventure dx	P
+castlevania circle of the moon gbc edition	P
+castlevania demon castle	P
+castlevania dx	P
+castlevania gospel of belmont	P
+castlevania ii belmont s revenge	P
+castlevania order of shadows golden belmont	P
+castlevania the adventure dx	P
+cat jumper	P
+catwoman	P
+cave dave	P
+chao yin su xun meng long	P
+chaoji yinsu de xiaozi ii super sonik ii	P
+chaoji yinsu xiaozi ii super sonik ii	P
+charavera non chilla let me sleep	P
+clan of the cave bear	P
+classic bubble bobble	P
+commander keen	P
+cosmo knight zion	P
+croc	P
+croc 2	P
+daffy duck auf schatzsuche	P
+daffy duck fowl play	P
+daffy duck subette koron de oogane mochi	P
+daffy duck subette koron de taikin mochi	P
+daffy duck un tr sor de canard	P
+daiku no gen san kachikachi no tonkachi ga kachi	P
+danger ranger	P
+dango dash	P
+das geheimnis der happy hippo insel	P
+dashosaur dx	P
+de 22	P
+de22	P
+delia the traveling witch	P
+demon castle dx	P
+depths of europa	P
+devil island	P
+devil land	P
+diabetor and the sugar monsters	P
+die monster ag	P
+die schl mpfe im alptraumland	P
+disney pixar a bug s life	P
+disney s 102 dalmatians puppies to the rescue	P
+disney s aladdin	P
+disney s beauty and the beast a board game adventure	P
+disney s donald duck daisy o tsukue	P
+disney s donald duck goin quackers	P
+disney s donald duck qu ck att ck	P
+disney s donald duck quack attack	P
+disney s snow white and the seven dwarfs	P
+diveblob	P
+donald duck daisy o sukue	P
+donald duck goin quackers	P
+donkey kong 2001	P
+donkey kong 5 the journey of over time and space	P
+donkey kong country	P
+donkey kong gb dinky kong and dixie kong	P
+donkey kong land 2 dx	P
+donkey kong land 2 game boy color edition	P
+donkey kong land 2 gbc edition	P
+donkey kong land iii	P
+donkey kong land new colors mode	P
+doraemon aruke aruke labyrinth	P
+doraemon memories nobi dai no omoi izaru daibouken	P
+doraemon memories nobita no omoide daibouken	P
+double duck	P
+dr franky and the monster	P
+dracula densetsu dx	P
+dracula densetsu ii	P
+dragon tales dragon adventures	P
+dropzone	H
+duke nukem	P
+e mo cheng dx	P
+e mo dao	P
+earthworm jim menace 2 the galaxy	P
+echoes of worlds	P
+elevator action	P
+elevator action ex	P
+elmo in grouchland	P
+emo cheng dx	P
+emperor s new groove	P
+enceladus	P
+ex	P
+expiration date	P
+exploits of fingers malone	P
+fallen crown	P
+fat dracula re vamped	P
+feed it souls	P
+feed it souls department of martian efficiency edition	P
+feed it souls dome edition	P
+feed it souls xmas special	P
+feed the monster	P
+fighter on the path of glory	P
+fireman	P
+fix and foxi episode 1 lupo	P
+fix it felix jr	P
+fix my heart	P
+fort boyard	P
+fortune and glory	P
+friday the 13th revisited	P
+fuse dash	P
+galaxy hunter 2 clone wars	P
+ganbare goemon hoshizorashi dynamites arawaru	P
+ganbare goemon seikuushi dynamites arawaru	P
+ganbare goemon spaceman dynamite appears	P
+geheimnis der happy hippo insel das	P
+gen the carpenter	P
+genesis of dreams	P
+gex 3 deep cover gecko	P
+gex 3 deep pocket gecko	P
+gex enter the gecko	P
+ghosts n goblins	GP
+goudall	P
+gremlins unleashed	P
+grimace s birthday	P
+harry potter 2	P
+harry potter 2 the black art wrestle edition	P
+hoshi no kirby dx	P
+hugo	P
+hugo black diamond fever	P
+hype the time quest	P
+ii	P
+inspector gadget operation madkactus	P
+island story	P
+james bond	P
+jet set radio demake	P
+jingles	P
+jsr0	P
+jsr0 jet set radio demake	P
+jsro	P
+judy s adventure dx	P
+jue dui wu li	P
+juedui wuli	P
+jungle book mowgli s wild adventure	P
+jurassic boy 2	P
+kero kero cowboy	P
+kiana and biscuit	P
+kiana and biscuit pirates on a visit	P
+kirby s dream land dx	P
+kirikou	P
+knights of the zodiac the phoenix returns	P
+la bella y la bestia aventura sobre el tablero	P
+la mission des schtroumpfs	P
+la pesadilla de los pitufos	P
+land before time	P
+lara croft tomb raider curse of the sword	P
+le cauchemar des schtroumpfs	P
+les 102 dalmatiens a la rescousse	P
+les chevaliers du zodiaque le retour du ph nix	P
+les visiteurs	P
+lethal rush	P
+looney tunes	P
+looney tunes carrot crazy	P
+looney tunes twouble	P
+lord of the rings 3 imperfect world	P
+los caballeros del zodiaco el regreso del fenix	P
+los pitufos la gran aventura de los pitufos	P
+lost phoenix	P
+lu ke ying xiong chuan 3	P
+lucky luke	P
+lucky luke desperado train	P
+luke yingxiong 2	P
+luke yingxiong 2 zook hero 2	P
+luoke ren dx6	P
+m and m s minis madness	P
+magic and legend time knights	P
+mamma mia pizzaeria	P
+mary kate and ashley get a clue	P
+max steel covert missions	P
+mega man world 2 dx	P
+mega man world 3 dx	P
+mega man world 4 dx	P
+mega man world 5 dx	P
+mega man world dr wily s revenge gbc	P
+mega man world dx	P
+mega man world ii gbc edition	P
+mega man xtreme	P
+mega man xtreme 2	P
+megaman world 5 dx	P
+men in black the series	P
+merlin	P
+metafight ex	P
+metal miracle	P
+metal slug	GP
+metroid 2 ejrtq colorization	P
+metroid dread	P
+metroid dread demake	P
+metroid ii dx	P
+metroid ii ejrtq colorization	P
+metroid ii return of samus	P
+metroid ii return of samus dx	P
+mission earth	P
+mission impossible	G
+mo jie 3 bu wanme de shijie	P
+mojie 3 bu wanme de shijie	P
+mona and the witch s hat deluxe	P
+monster ag die	P
+monster go go go	P
+monsters inc	P
+montezuma s return	P
+monty on the run	P
+moomin no daibouken	P
+moomin s tale	P
+mr nutz	P
+my friendly little island	P
+new adventures of mary kate and ashley	P
+new batman adventures chaos in gotham	P
+new batman adventures the chaos in gotham	P
+ninja gaiden shadow dx	P
+noddy and the birthday party	P
+noddy und die geburtstagspart	P
+noddy y la fiesta de cumplea os	P
+oddworld adventures 2	P
+oddworld adventures ii	P
+os cavaleiros do zodiaco o retorno da fenix	P
+oui oui et la f te d anniversaire	P
+out of office	P
+papyrus	P
+parodius	H
+paws and perils	P
+paws and perils out of this world	P
+pinecone pizza party	P
+pitfall beyond the jungle	P
+pitfall gb	P
+pocket bomberman	P
+pocket monsters go go	P
+pok mon adventure	P
+pokemon go go go	P
+pokettohiro	P
+portal runner	P
+possessed willie the dream of pixels	P
+powa	P
+power rangers time force	P
+prince of persia	P
+pumpkin jack and the witch s curse	P
+pyrotoad	P
+q bert	P
+rainbow islands	P
+raven star	P
+rayman	P
+rayman 2	P
+rayman 2 forever	P
+rayman 2 the great escape	P
+rayman mister dark no wana	P
+razmoket les voyage dans le temps	P
+repugnant bounty	P
+return of the ninja	P
+rhino rumble	P
+rise of the penguins	P
+rise of the penguins gb	P
+robocop	G
+rock hero	P
+rockman 3	P
+rockman 8	P
+rockman dx3	P
+rockman dx6	P
+rockman world 4 dx	P
+rockman x cyber mission	P
+rockman x2 soul eraser	P
+rockman x3	P
+rockman x4	P
+rockman zero	P
+rootin tootin cowboy wizard lizards	P
+rubber duckie bathtime fun	P
+ruby and rusty save the crows	P
+rugrats movie	P
+rugrats time travelers	P
+rumble and tumble	P
+rusty flesh	P
+saban s power rangers time force	P
+sabrina the animated series spooked	P
+sabrina the animated series zapped	P
+saint seiya el regreso del f nix	P
+sam the optimistic hedgehog	P
+samurai kid	P
+sapphire and shiny kidnap the crows	P
+secret of happy hippo island	P
+secrets of happy hippo isle	P
+self simulated	P
+sergio kidd	P
+sesame street the adventures of elmo in grouchland	P
+shantae	P
+shen gui di guo zhi e mo cheng	P
+shengui diguo zhi emo cheng	P
+simpsons night of the living treehouse of horror	P
+skelost	P
+smickeonn the game deluxe	P
+smurfs nightmare	P
+sofia the witch curse of the monster moon	P
+sonic 8	P
+sonic adventure 7	P
+sonic adventure 8	P
+sonic the hedgehog	P
+sonic the hedgehog gbc port	P
+soren rising	P
+soren rising the five clans of tresibra	P
+south park	P
+space taxi	P
+spanky s quest dx	P
+speedy gonzales abenteuer im aztekenreich	P
+speedy gonzales aztec adventure	P
+spider man 2 the sinister six	P
+star wars ii the clone wars	P
+startled 911	P
+super	P
+super dassalo land	P
+super doggo wow wan	P
+super impostor bros	P
+super jacked up tomato face johnson	P
+super luo ke ren	P
+super mario bros deluxe	P
+super mario bros dx	P
+super mario bros mini	P
+super mario land 2 6 golden coins dx	P
+super mario land 2 dx	P
+super mario land 3 wario land dx	P
+super mario land color	P
+super mario land dx	P
+super marrio sunshine	P
+super rockman	P
+swiv	V
+sylvester and tweety breakfast on the run	P
+taito memorial bubble bobble	P
+tasmanian devil munching madness	P
+tazmanian devil munching madness	P
+tempus gear	P
+terrifying 9 11	P
+tezhong budui 2 jidi	P
+thefallencrown	P
+thunder blast man	P
+time knights	P
+tintin au tibet	P
+tintin in tibet	P
+tiny toon adventures dx babs big break	P
+titi le tour du monde en 80 chats	P
+titus the fox	P
+titus the fox to marrakech and back	P
+tobu tobu girl deluxe	P
+toki tori ultimate edition	P
+tom and jerry	P
+tomb raider 2	P
+tomb raider curse of the sword	P
+tonic trouble	P
+toonsylvania	P
+trip world dx	P
+turok 2 jikku senshi	P
+turok 2 seeds of evil	P
+tweety s high flying adventure	P
+tweety sekaiisshuu 80 hiki no neko o sagase	P
+u r toast	P
+ur toast	P
+visiteurs les	P
+wai xing tan xian zhi xing qiu da zhan	P
+wai xing tanxian zhi xingqiu dazhan	P
+walt disney s snow white and the seven dwarfs	P
+wario land 2	P
+wario land 3	P
+wario land 3 fushigi na orgel	P
+wario land 3 the master quest	P
+wario land ii	P
+wario land ii but it s super mario bros	P
+wario land super mario land 3 color edition	P
+wario land super mario land 3 dx	P
+welcome to satellitosaur s island	P
+wicked plague	P
+willy the wasp	P
+wings of fury	H
+wink	P
+wink and the broken robot	P
+wizkid and the tower	P
+wl2smb	P
+woody woodpecker	P
+woody woodpecker escape from buzz buzzard park	P
+x	P
+x men wolverine s rage	P
+x2	HP
+xing qiu da zhan 2 ke long ren zhan yi	P
+xingqiu dazhan ii kelong ren zhanyi	P
+yoshi joins bowser	P
+yurivania 0 soul night prelude	P
+zippy the pinecone	P
+zirconia	P
+zirconia the mysterious planet	P
+zoboomafoo playtime in zobooland	P
+zook hero 2	P
+zook hero 3	P
+zook hero z	P
+zook z	P
+zoryad	P

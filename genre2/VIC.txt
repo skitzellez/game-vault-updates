@@ -1,0 +1,80 @@
+alien panic	P
+apple panic	P
+astro nell	P
+attack of the mutant camels	H
+bertie the ball	P
+bird of prey	P
+blue star	P
+bongo	P
+bonzo	P
+cannonball blitz	P
+carling the spider	P
+cave fighter	P
+cheese and onion	P
+cheesy trials	P
+choplifter	H
+chopper	H
+chuckie egg	P
+congo bongo	P
+cosmonaut	P
+countdown	P
+countdown uxb	P
+crazy cavey	P
+crazy climber	P
+crazy kong	P
+defender	H
+donkey kong	P
+fast eddie	HP
+gold fever	P
+h e r o	P
+h e r o helicopter emergency rescue operation	P
+h3lp b0dg3	P
+hektik	P
+hero	P
+hunchback	P
+jet set willy	P
+jetpac	P
+johnnie jumpet	P
+jungle hunt	P
+king s ransom	P
+king tut	P
+kings ransom	P
+kongo kong	P
+krazy kong	P
+lala prologue	P
+lode runner	P
+log run	P
+lunar leeper	H
+manic miner	P
+mickey the bricky	P
+miner 2049er	P
+mini kong	P
+mission impossible	G
+moon patrol	H
+mountain king	P
+nemesis	H
+pentagorat	P
+pentagorat the castle of fiends	P
+perils of willy	P
+pharaoh s curse	P
+pitfall	P
+pitfall ii	P
+pitfall ii lost caverns	P
+pitfall ii the lost caverns	P
+protector	H
+punchy	P
+q bert	P
+rat hotel	P
+robots rumble	P
+scorpion	G
+scramble	H
+sidewinder	V
+space joust	P
+springer	P
+squish em	P
+tenebra macabre	P
+topper	P
+vic panic	P
+viq bert	P
+wacky waiters	P
+wunda walter	P

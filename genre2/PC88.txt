@@ -1,0 +1,73 @@
+1942	V
+alley cat	P
+ascend	P
+ashe	P
+ashe legend of toma	P
+babylon	P
+balloon fight	P
+batten tanuki no daibouken	P
+bomb jack	P
+bruce lee	P
+castle excellent	P
+chack n pop	P
+championship lode runner	P
+choplifter	H
+commando	G
+crisis mountain	P
+dokuron no yakata	P
+door door	P
+dragon buster	P
+earth defense force	H
+elevator action	P
+fire hawk thexder the second contact	G
+flicky	P
+formation z	H
+fruit panic	P
+funky monkey	P
+gegege no kitarou	P
+goonies	P
+gradius	H
+gyrodine	V
+harvest	P
+heist	P
+holy grail	P
+hopman	P
+ice climber	P
+impossible mission	P
+king flappy	P
+light flipper	P
+lode runner	P
+mabel s mansion	P
+magnet girl	P
+magnet world 2	P
+magnet world final	P
+majoriko	P
+majoriko inbikai	P
+majoriko inbizone	P
+makaimura	P
+mappy	P
+mario bros special	P
+mario brothers special	P
+max 01g	P
+miner 2049er	P
+minor 2049er	P
+mission impossible	G
+mr robot and his robot factory	P
+mugen senshi valis ii	P
+newtron	P
+pac land	P
+penki ya you chan	P
+punch ball mario bros	P
+sammy lightfoot	P
+scramble	H
+super mario bros special	P
+super mario brothers special	P
+super pitfall	P
+thexder	GP
+thunder force	H
+valis the fantasm soldier ii	P
+werdragon	P
+woody poco	P
+xzr ii	P
+youjuu kikouhei werdragon	P
+zeliard	P

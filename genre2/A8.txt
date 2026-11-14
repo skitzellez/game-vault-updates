@@ -1,0 +1,318 @@
+a zone	P
+abuse	G
+adax	P
+adventure ponies	P
+adventurer	P
+agent wander	P
+agonia	P
+airstrike	H
+airstrike ii	H
+airwolf	H
+albert	P
+alchemia	P
+alien 8	P
+aliens	G
+alp man	P
+analog man	P
+android	P
+apple panic	P
+aquatron	H
+around the planet	P
+artefakt przodk w	P
+artefakt przodkow	P
+attack of the mutant camels	H
+aurum	P
+aztec	P
+aztec challenge	P
+basic burger	P
+beef drop	P
+beer belly burt s brew biz	P
+bertie	P
+betty s issues	P
+big game duo	P
+big house	P
+black lamp	P
+blinky s scary school	P
+blok head	P
+bomb fusion	P
+bounty bob strikes back	P
+breath of the dragon	P
+bristles	P
+bruce lee	P
+bruce lee return of fury	P
+bug out	P
+bunny hop	P
+burger boy	P
+burger chef	P
+camelot	P
+candy factory	P
+cannibals	P
+canyon climber	P
+castle top	P
+castlemania	P
+cave crisis	P
+caveman	P
+cavernia	P
+cavernrun	P
+caverns of khafka	P
+caverns of mars	V
+caverns of the lost miner	P
+championship lode runner	P
+chasm escape	P
+choplifter	H
+chuckie egg	P
+cimex rex	P
+climber	P
+climber 5	P
+code brown	P
+cohen s towers	P
+collapse	P
+commando	G
+conan	P
+conan hall of volta	P
+congo bongo	P
+conquest of the crown	P
+countdown	P
+crazy clown jumper	P
+crazy egon	P
+crisis mountain	P
+crownland	P
+crumble s crisis	P
+crypts of egypt	P
+crystal raider	P
+curse	H
+darkness hour	P
+daylight robbery	P
+deathland	P
+defender	H
+deimos	P
+demon	P
+desmond s dungeon	P
+desmonds dungeon	P
+devil s domain	P
+dig dug	P
+dizzy the ultimate cartoon adventure	P
+domain of the undead	P
+donald	P
+donkey kong	P
+donkey kong jr	P
+donkey kong junior	P
+doofy	P
+dreadnaught factor	V
+drol	P
+dropzone	H
+dschungle boy	P
+duch	P
+dude story	P
+dziedzictwo gigant w	P
+ea y mone	P
+easy money	P
+electrician	P
+electroids	P
+elevator repairman	P
+eliminator	H
+emil hilf	P
+enigmatix	P
+environment x	P
+escape from epsilon	P
+fantastic voyage	V
+fast eddie	HP
+final exam	G
+fire man	P
+fire power	P
+flak	V
+flinstone s adventures	P
+flintstones	P
+flip and flop	P
+floor walker	P
+floyd of the jungle	P
+flying high	P
+fraction fever	P
+frank and mark	P
+fred	P
+gangsters	P
+gauntlet	H
+ghastly night	P
+ghost chaser	P
+gold hunter	P
+gold mine	P
+goonies	P
+gorgon	H
+green beret	P
+grubs	P
+gunhead	P
+gwobby strikes back	P
+h e r o	P
+h e r o helicopter emergency rescue operation	P
+hans kloss	P
+hard hat mack	P
+hawk moon	P
+hawkmoon	P
+helix	P
+henry s house	P
+herbert	P
+herbert ii	P
+hobgoblin	P
+house of usher	P
+imagine	P
+into deep	P
+james bond 007	H
+jaskiniowiec	P
+jet set willy	P
+jet set willy 2007	P
+journey to the planets	P
+joust	P
+jumper	P
+jumper 2	P
+jumping jack s big adventure	P
+jumping jim	P
+jumpman	P
+jumpman junior	P
+jungle boy	P
+jungle hunt	P
+juno first	V
+kason s tower	P
+keystone kapers	P
+kissin kousins	P
+kosmonauti	P
+krucjata	P
+lapin vole	P
+laser gates	H
+laser hawk	H
+laser robot	P
+leaper	P
+leaping larry	P
+little devil	P
+locket	P
+lode runner	P
+lone raider	P
+lunar jetman	H
+lunar leeper	H
+mario bros	P
+melt down	P
+memory manor	P
+microman	P
+midnight	P
+might jill off	P
+mighty jill off	P
+miner 2049er	P
+mirax force	H
+mission impossible	G
+monkey magic	P
+monster hunt	P
+monster hunt or little wonderland	P
+montezuma	P
+montezuma 2 again	P
+montezuma again	P
+montezuma s redux	P
+montezuma s revenge	P
+monty on the run	P
+moon patrol	H
+moon shuttle	H
+mountain king	P
+mouse trap	P
+mr cool	P
+mr do	P
+mr do s castle	P
+mr robot	P
+mr robot and his robot factory	P
+naturix	P
+nebulus	P
+nightraiders	V
+ninja commando	GP
+nostradamus	V
+nuclear nick	P
+olki	P
+ollie s follies	P
+panik	P
+pastfinder	V
+pitfall ii lost caverns	P
+pogo joe	P
+pogotron	P
+polar pierre	P
+pong	P
+popeye	P
+poussinet	P
+prince of persia	P
+protector	H
+protector ii	H
+q bert	P
+r o t o	P
+rainbow walker	P
+rear guard	H
+repton	H
+rgb	P
+ridiculous reality	P
+risky rescue	P
+river raid	V
+robot knights	P
+rockman	P
+roderic	P
+roni and the t v attack	P
+roni and the tv attack	P
+rosen s brigade	H
+roto	P
+ruff and reddy in the space adventure	P
+run for it	P
+schranker 4	P
+schreckenstein	P
+scooter	P
+scramble	H
+screaming wings	V
+sea dragon	H
+shamus case ii	P
+sidewinder	V
+slinky	P
+snokie	P
+space rider	P
+space taxi	P
+spelunker	P
+spiky harold	P
+spooky castle	P
+springer	P
+sprong	P
+sprong the quest for the golden pogostick	P
+spy master	P
+spy s demise	P
+star blazer	H
+stargate	H
+starquake	P
+strzyga	P
+submission	P
+super bunny	P
+super cobra	H
+syn boga wiatru	P
+tail of beta lyrae	H
+tales of dragons and cavemen	P
+tarkus and the crystal of fear	P
+tecno ninja	P
+terminator	P
+thrax lair	V
+thunder fox	H
+timeslip	H
+tobot and bros	P
+tobot bros	P
+tony montezuma s gold	P
+track attack	P
+trisz divinis	P
+trolls and tribulations	P
+upior	P
+upward	P
+uridium	H
+vicky	P
+warhawk	V
+whirlinurd	P
+whistler s brother	P
+winter wally	P
+wloczykij	P
+worm war i	V
+xagon	P
+yogi s great escape	P
+yoomp	P
+zauberball	P
+zauberball 23	P
+zbir	P
+zeus	P
+zorro	P
+zumbaja	P
+zybex	H

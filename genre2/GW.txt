@@ -1,0 +1,76 @@
+addams family	P
+banana	P
+bbtime	P
+bcclimbr	P
+bomb sweeper	P
+bucky o hare	G
+burger time	P
+burgertime	P
+caccial	P
+castlevania ii simon s quest	P
+chicky woggy	P
+chickywt	P
+climber	P
+contra	GP
+crazy climber	P
+crazy climbing	P
+crazy kong	P
+dkongc	P
+dkongjrc	P
+dkongjrt	P
+donkey kong jr	P
+fire attack	P
+fireman fireman	P
+game and watch bomb sweeper	P
+game and watch climber	P
+game and watch donkey kong jr	P
+game and watch fire attack	P
+game and watch gold cliff	P
+game and watch green house	P
+game and watch judge	P
+game and watch lion	P
+game and watch manhole	P
+game and watch mario bros	P
+game and watch mario s cement factory	P
+game and watch mickey and donald	P
+game and watch octopus	P
+game and watch oil panic	P
+game and watch popeye	P
+game and watch rain shower	P
+game and watch squish	P
+game and watch super mario bros	P
+game and watch turtle bridge	P
+game and watch zelda	P
+gauntlet	H
+gold cliff	P
+gradius	H
+green house	P
+hot line sporty time edition	P
+isidoro and sonja caccia al ladro	P
+judge	P
+kcontra	P
+lion	P
+manhole	P
+mario bros	P
+mario s cement factory	P
+mickey and donald	P
+monkey	P
+monkey jump	P
+mysteries of the deep	P
+mysteries of the sea	P
+octopus	P
+oil panic	P
+popeye	P
+rain shower	P
+scramble	H
+sonic the hedgehog	P
+sonic the hedgehog 2	P
+sonic x	P
+squish	P
+super cobra	H
+super mario bros	P
+super mario bros 3 game watch	P
+super mario world game watch	P
+turtle bridge	P
+wild man jump	P
+zelda	P
