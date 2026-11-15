@@ -2,10 +2,10 @@ Game Vault reads this file when it starts. First number: the lowest version that
 min=0.16.1.169
 latest=0.16.1.740
 latest_xemu=0.9.1018.11
-latest_retroarch=1.22.2.108
+latest_retroarch=1.22.2.110
 latest_xbsx2=2.0.9.20
 latest_dolphin=1.1.9.126
-latest_xenia=1.1.8.325
+latest_xenia=1.1.8.328
 latest_cemu=0.2.6.112
 latest_flash=0.1.0.9
 latest_web=0.1.0.19
