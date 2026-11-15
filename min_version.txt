@@ -29,4 +29,4 @@ major_note_es=Nuevo: juegos 3D más nítidos en un solo ajuste (Opciones > Aspec
 major_note_fr=Nouveau : des jeux 3D plus nets en un seul réglage (Options > Apparence et son > Résolution), et rejoignez le Discord de Game Vault, le QR code est à l’écran.
 major_note_de=Neu: schärfere 3D-Spiele mit einer Einstellung (Optionen > Aussehen & Ton > Auflösung), und tritt dem Game-Vault-Discord bei, der QR-Code ist auf dem Bildschirm.
 major_note_it=Novità: giochi 3D più nitidi con un’unica impostazione (Opzioni > Aspetto e suono > Risoluzione), e unisciti al Discord di Game Vault, il codice QR è sullo schermo.
-latest_vita=0.1.0.8
+latest_vita=0.1.0.9
