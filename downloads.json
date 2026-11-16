@@ -37,7 +37,8 @@
   "skitzellez/RetroArch-GameVault gv-1.22.2.108": 10,
   "skitzellez/RetroArch-GameVault gv-1.22.2.110": 27,
   "skitzellez/RetroArch-GameVault gv-1.22.2.127": 3,
-  "skitzellez/RetroArch-GameVault gv-1.22.2.141": 0,
+  "skitzellez/RetroArch-GameVault gv-1.22.2.141": 3,
+  "skitzellez/RetroArch-GameVault gv-1.22.2.144": 0,
   "skitzellez/RetroArch-GameVault gv-1.22.2.18": 40,
   "skitzellez/RetroArch-GameVault gv-1.22.2.21": 42,
   "skitzellez/RetroArch-GameVault gv-1.22.2.29": 17,
@@ -138,7 +139,7 @@
   "skitzellez/game-vault-android android-0.5.0": 0,
   "skitzellez/game-vault-android test-ps2-0.4.1": 0,
   "skitzellez/xbox-game-vault mac-setup-beta-1": 18,
-  "skitzellez/xbox-game-vault runtime-vclibs": 355,
+  "skitzellez/xbox-game-vault runtime-vclibs": 356,
   "skitzellez/xbox-game-vault test-0.16.1.347": 3,
   "skitzellez/xbox-game-vault test-0.16.1.416": 4,
   "skitzellez/xbox-game-vault test-0.16.1.419": 4,
@@ -315,8 +316,8 @@
   "skitzellez/xemu-uwp uwp-0.9.999.0": 15
  },
  "totals": {
-  "all": 6868,
-  "emulators": 4435,
-  "gamevault": 2433
+  "all": 6872,
+  "emulators": 4438,
+  "gamevault": 2434
  }
 }
