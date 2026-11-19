@@ -1,6 +1,6 @@
 Game Vault reads this file when it starts. First number: the lowest version that still starts (raised only for a serious problem). Second number: the newest release (shows a notice only, blocks nothing). Then the newest xemu, RetroArch and XBSX2 builds (offered on the RT update screen). latest_android: the newest Game Vault for Android, latest_retroarch_android: the newest RetroArch for Game Vault for Android, latest_xbox_android: the newest X1 BOX for Game Vault, latest_ios: the newest Game Vault for iPhone (notices only; the player taps to install). major= / major_<emulator>=: the newest BIG release (Game Vault 0.16.1.141+ pops up a notice only when this is newer than what is installed; smaller releases show only the RT badge). major_note= (major_note_pt/es/fr/de/it=): one line in that notice about what the big release brings. top= / top_url= / top_size= / top_sha256= / top_sig= / top_base=: the newest Game Vault top layer (0.16.1.844+ download it by themselves and start it the next time they open; signed, see layers in the source).
 min=0.16.1.169
-latest=0.16.1.874
+latest=0.16.1.880
 latest_xemu=0.9.1018.62
 latest_retroarch=1.22.2.145
 latest_xbsx2=2.0.9.20
@@ -32,9 +32,9 @@ major_note_it=Novità: da questa versione Game Vault si aggiorna da solo. Premi 
 latest_vita=0.1.0.9
 xbl_dns=152.42.145.249
 latest_vpinball=0.1.0.11
-top=0.16.1.874
+top=0.16.1.880
 top_base=2
-top_url=https://github.com/skitzellez/xbox-game-vault/releases/download/v0.16.1.874/GameVaultTop-0.16.1.874.bin
-top_size=6825472
-top_sha256=bf4da5453475fa8bd45834da42a54e77dc7a3417b97c7e57a0284258462ad4a3
-top_sig=5d6320e696936ce57f6c4f21dfdf2132b4c8e74b2a9d6a479494ab52ea77cadaf828ae1a6f3d096cecba2746c621f79ed7205d1b3f1a06a086221c35a59d3b87
+top_url=https://github.com/skitzellez/xbox-game-vault/releases/download/v0.16.1.880/GameVaultTop-0.16.1.880.bin
+top_size=6827520
+top_sha256=7b16ccaebb0a54407576cca5c539e88a5ed184bc6ba76dfd2be83d583647b216
+top_sig=c413331cc4c416626489b6b6695389e02a2f470cc4c389e7815830494ced9b60fec5218f90ceeb87a76f8d78ab5c3046aa9f77445141ba8394f0c611a234a75f
