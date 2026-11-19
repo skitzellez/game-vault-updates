@@ -1,6 +1,6 @@
 Game Vault reads this file when it starts. First number: the lowest version that still starts (raised only for a serious problem). Second number: the newest release (shows a notice only, blocks nothing). Then the newest xemu, RetroArch and XBSX2 builds (offered on the RT update screen). latest_android: the newest Game Vault for Android, latest_retroarch_android: the newest RetroArch for Game Vault for Android, latest_xbox_android: the newest X1 BOX for Game Vault, latest_ios: the newest Game Vault for iPhone (notices only; the player taps to install). major= / major_<emulator>=: the newest BIG release (Game Vault 0.16.1.141+ pops up a notice only when this is newer than what is installed; smaller releases show only the RT badge). major_note= (major_note_pt/es/fr/de/it=): one line in that notice about what the big release brings. top= / top_url= / top_size= / top_sha256= / top_sig= / top_base=: the newest Game Vault top layer (0.16.1.844+ download it by themselves and start it the next time they open; signed, see layers in the source).
 min=0.16.1.169
-latest=0.16.1.883
+latest=0.16.1.891
 latest_xemu=0.9.1018.65
 latest_retroarch=1.22.2.145
 latest_xbsx2=2.0.9.20
@@ -32,9 +32,9 @@ major_note_it=Novità: da questa versione Game Vault si aggiorna da solo. Premi 
 latest_vita=0.1.0.9
 xbl_dns=152.42.145.249
 latest_vpinball=0.1.0.11
-top=0.16.1.883
+top=0.16.1.891
 top_base=2
-top_url=https://github.com/skitzellez/xbox-game-vault/releases/download/v0.16.1.883/GameVaultTop-0.16.1.883.bin
-top_size=6858752
-top_sha256=9067bfed9471fa07de35fd309bf1f8ad393aac1ca8ce4ab672c6aefc7c8714d3
-top_sig=9190fb8d42986fe3b715f5e63217f89612fae8ef7d45fced1ad18c7a2f9cc2e07bdd74288f6fd71b05e6902ae2a987d7e39df15487ac20d51162b3bef4ead435
+top_url=https://github.com/skitzellez/xbox-game-vault/releases/download/v0.16.1.891/GameVaultTop-0.16.1.891.bin
+top_size=6960640
+top_sha256=6a8f569856084764643ba892b3fea9ce054cb68d8dbfd4e8cd69eb754b346706
+top_sig=31941c68bd60286bbf1e2190144bd059856475854c3b5c55082749aa93a0d94676c06dab82e7fd7a6bfde92f77403957b35517c37b4dbc5e732fa394aa101980
