@@ -1,6 +1,6 @@
 Game Vault reads this file when it starts. First number: the lowest version that still starts (raised only for a serious problem). Second number: the newest release (shows a notice only, blocks nothing). Then the newest xemu, RetroArch and XBSX2 builds (offered on the RT update screen). latest_android: the newest Game Vault for Android, latest_retroarch_android: the newest RetroArch for Game Vault for Android, latest_xbox_android: the newest X1 BOX for Game Vault, latest_ios: the newest Game Vault for iPhone (notices only; the player taps to install). major= / major_<emulator>=: the newest BIG release (Game Vault 0.16.1.141+ pops up a notice only when this is newer than what is installed; smaller releases show only the RT badge). major_note= (major_note_pt/es/fr/de/it=): one line in that notice about what the big release brings. top= / top_url= / top_size= / top_sha256= / top_sig= / top_base=: the newest Game Vault top layer (0.16.1.844+ download it by themselves and start it the next time they open; signed, see layers in the source).
 min=0.16.1.169
-latest=0.16.1.917
+latest=0.16.1.932
 latest_xemu=0.9.1018.65
 latest_retroarch=1.22.2.145
 latest_xbsx2=2.0.9.20
@@ -38,9 +38,9 @@ xemu_top_url=https://github.com/skitzellez/xemu-uwp/releases/download/uwp-top-0.
 xemu_top_size=20183552
 xemu_top_sha256=86b6499aa3730dac3b90a990af69c4393399e9707b212726568e960bf44ac088
 xemu_top_sig=606cf058868128aeb0286067989895d3e9e6b9b820375dbb484639f5bc7832d377d61e01250f6d78b96e8214e8a563fb1989f470ce11ee72f354729b78e459c6
-top=0.16.1.917
+top=0.16.1.932
 top_base=2
-top_url=https://github.com/skitzellez/xbox-game-vault/releases/download/v0.16.1.917/GameVaultTop-0.16.1.917.bin
+top_url=https://github.com/skitzellez/xbox-game-vault/releases/download/v0.16.1.932/GameVaultTop-0.16.1.932.bin
 top_size=7059968
-top_sha256=a35bc2e1fe50321ba4e32da45c2ac727950dea734ea9afc723351228cb0782d6
-top_sig=70e2140d3cafabc3daabccd3f6490e8f344540a098ce3435fc5f355d0cc4c1786fb55b977f55559e3c79e084ded648b421f9d2283cdb8247bf0dc4dd04f6609b
+top_sha256=967ab1d6a6b9fe86052f796c45ca55e7cccd7671a79bc16fbe020f39c131398f
+top_sig=f3e878a77f856c7fa2f3a09d6089464f663f982d745e968fcf3655f633ffd9e65aa3e1886d9f9673964a07abfe551abfe75477436d95c120eef7dbae1ec5f6e1
