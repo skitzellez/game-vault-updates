@@ -1,6 +1,6 @@
 Game Vault reads this file when it starts. First number: the lowest version that still starts (raised only for a serious problem). Second number: the newest release (shows a notice only, blocks nothing). Then the newest xemu, RetroArch and XBSX2 builds (offered on the RT update screen). latest_android: the newest Game Vault for Android, latest_retroarch_android: the newest RetroArch for Game Vault for Android, latest_xbox_android: the newest X1 BOX for Game Vault, latest_ios: the newest Game Vault for iPhone (notices only; the player taps to install). major= / major_<emulator>=: the newest BIG release (Game Vault 0.16.1.141+ pops up a notice only when this is newer than what is installed; smaller releases show only the RT badge). major_note= (major_note_pt/es/fr/de/it=): one line in that notice about what the big release brings. top= / top_url= / top_size= / top_sha256= / top_sig= / top_base=: the newest Game Vault top layer (0.16.1.844+ download it by themselves and start it the next time they open; signed, see layers in the source).
 min=0.16.1.169
-latest=0.16.1.972
+latest=0.16.1.996
 latest_xemu=0.9.1018.65
 latest_retroarch=1.22.2.145
 latest_xbsx2=2.0.9.20
@@ -38,9 +38,9 @@ xemu_top_url=https://github.com/skitzellez/xemu-uwp/releases/download/uwp-top-0.
 xemu_top_size=20198400
 xemu_top_sha256=bd63037423907f96b308c36cffebb719cfd7f80172c05f989bae2d52b2f26ccb
 xemu_top_sig=9c52a505d837b04a928f2a31cea88dbf74fd0dafb89457087862aaca0876f1f11298fae53b8761077777d00301d726d7bcbd9699d554ce6af7123f7dfdfd9411
-top=0.16.1.972
+top=0.16.1.996
 top_base=2
-top_url=https://github.com/skitzellez/xbox-game-vault/releases/download/v0.16.1.972/GameVaultTop-0.16.1.972.bin
-top_size=7503872
-top_sha256=b230c649f6209cc47b44e9d6d26b70b87a8dc05886b096ccfac243dc26ae8b03
-top_sig=70aac99cf98733f67a163ee8a111b4db1bd6db2aebcad505b8ebaf0147e883e66f22faa110817bc1657e4711b97f2af808af4c0225775c1de6c4e1db864f14a2
+top_url=https://github.com/skitzellez/xbox-game-vault/releases/download/v0.16.1.996/GameVaultTop-0.16.1.996.bin
+top_size=7522816
+top_sha256=314a8fbbed26591202b20d063f2c3d039be77033b32cd2398236e7fcdb2a7b1a
+top_sig=532fc044e1349a745f1875a14c999d34ac809913f7eb41c165ea3e2154e2d283ff73031fe93bb8b63f2ee3bbdc521319027296699d2481301dd88191cb3ec250
