@@ -1,6 +1,6 @@
 Game Vault reads this file when it starts. First number: the lowest version that still starts (raised only for a serious problem). Second number: the newest release (shows a notice only, blocks nothing). Then the newest xemu, RetroArch and XBSX2 builds (offered on the RT update screen). latest_android: the newest Game Vault for Android, latest_retroarch_android: the newest RetroArch for Game Vault for Android, latest_xbox_android: the newest X1 BOX for Game Vault, latest_ios: the newest Game Vault for iPhone (notices only; the player taps to install). major= / major_<emulator>=: the newest BIG release (Game Vault 0.16.1.141+ pops up a notice only when this is newer than what is installed; smaller releases show only the RT badge). major_note= (major_note_pt/es/fr/de/it=): one line in that notice about what the big release brings. top= / top_url= / top_size= / top_sha256= / top_sig= / top_base=: the newest Game Vault top layer (0.16.1.844+ download it by themselves and start it the next time they open; signed, see layers in the source).
 min=0.16.1.169
-latest=0.16.1.1102
+latest=0.16.1.1151
 latest_xemu=0.9.1018.65
 latest_retroarch=1.22.2.145
 latest_xbsx2=2.0.9.20
@@ -38,9 +38,9 @@ xemu_top_url=https://github.com/skitzellez/xemu-uwp/releases/download/uwp-top-0.
 xemu_top_size=20198400
 xemu_top_sha256=bd63037423907f96b308c36cffebb719cfd7f80172c05f989bae2d52b2f26ccb
 xemu_top_sig=9c52a505d837b04a928f2a31cea88dbf74fd0dafb89457087862aaca0876f1f11298fae53b8761077777d00301d726d7bcbd9699d554ce6af7123f7dfdfd9411
-top=0.16.1.1102
+top=0.16.1.1151
 top_base=2
-top_url=https://github.com/skitzellez/xbox-game-vault/releases/download/v0.16.1.1102/GameVaultTop-0.16.1.1102.bin
-top_size=7538688
-top_sha256=b320b7b575599797606fc85c43361a39af1fd6d46c0fed5feaee46a6cff50b05
-top_sig=5d9cafbc29928686b6bf43400f720aa97d2c4ee94fad9686252c6bd27a5e32bc93062ace909e958f1bcace338b408439531734e374496780b2dce4a53f0586ed
+top_url=https://github.com/skitzellez/xbox-game-vault/releases/download/v0.16.1.1151/GameVaultTop-0.16.1.1151.bin
+top_size=7677440
+top_sha256=1ce0a0486c7dbfdc3aec8b5b28f0e6f3ecdb8aab95005e94308c4eef3e08955d
+top_sig=2bb21c250b258adee4481fdd9649c310383c827fd15e8ac4880e37c74eb19172368724ddf3076521d359031c12973b98c99f11a6de805b2febeca422baabb23f
