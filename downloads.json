@@ -191,13 +191,14 @@
   "skitzellez/xbox-game-vault v0.16.1.1361": 5,
   "skitzellez/xbox-game-vault v0.16.1.1370": 26,
   "skitzellez/xbox-game-vault v0.16.1.140": 9,
-  "skitzellez/xbox-game-vault v0.16.1.1415": 19,
+  "skitzellez/xbox-game-vault v0.16.1.1415": 20,
   "skitzellez/xbox-game-vault v0.16.1.142": 1,
   "skitzellez/xbox-game-vault v0.16.1.143": 0,
   "skitzellez/xbox-game-vault v0.16.1.144": 1,
   "skitzellez/xbox-game-vault v0.16.1.145": 10,
-  "skitzellez/xbox-game-vault v0.16.1.1455": 0,
+  "skitzellez/xbox-game-vault v0.16.1.1455": 3,
   "skitzellez/xbox-game-vault v0.16.1.146": 1,
+  "skitzellez/xbox-game-vault v0.16.1.1460": 0,
   "skitzellez/xbox-game-vault v0.16.1.147": 9,
   "skitzellez/xbox-game-vault v0.16.1.148": 3,
   "skitzellez/xbox-game-vault v0.16.1.150": 1,
@@ -380,8 +381,8 @@
   "skitzellez/xemu-uwp uwp-top-0.9.1018.96": 0
  },
  "totals": {
-  "all": 9148,
+  "all": 9152,
   "emulators": 5754,
-  "gamevault": 3394
+  "gamevault": 3398
  }
 }
