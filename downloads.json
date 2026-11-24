@@ -21,7 +21,7 @@
   "skitzellez/Dolphin-GameVault gv-1.1.9.126": 38,
   "skitzellez/Dolphin-GameVault gv-1.1.9.129": 146,
   "skitzellez/Dolphin-GameVault gv-1.1.9.137": 19,
-  "skitzellez/Dolphin-GameVault gv-1.1.9.139": 8,
+  "skitzellez/Dolphin-GameVault gv-1.1.9.139": 10,
   "skitzellez/Dolphin-GameVault gv-top-1.1.9.139": 0,
   "skitzellez/Flash-GameVault gv-0.1.0.8": 12,
   "skitzellez/Flash-GameVault gv-0.1.0.9": 143,
@@ -44,7 +44,7 @@
   "skitzellez/RetroArch-GameVault gv-1.22.2.141": 3,
   "skitzellez/RetroArch-GameVault gv-1.22.2.144": 7,
   "skitzellez/RetroArch-GameVault gv-1.22.2.145": 156,
-  "skitzellez/RetroArch-GameVault gv-1.22.2.151": 0,
+  "skitzellez/RetroArch-GameVault gv-1.22.2.151": 3,
   "skitzellez/RetroArch-GameVault gv-1.22.2.18": 40,
   "skitzellez/RetroArch-GameVault gv-1.22.2.21": 42,
   "skitzellez/RetroArch-GameVault gv-1.22.2.29": 17,
@@ -74,7 +74,7 @@
   "skitzellez/XBSX2-GameVault gv-2.0.9.19": 26,
   "skitzellez/XBSX2-GameVault gv-2.0.9.20": 165,
   "skitzellez/XBSX2-GameVault gv-2.0.9.21": 13,
-  "skitzellez/XBSX2-GameVault gv-2.0.9.23": 29,
+  "skitzellez/XBSX2-GameVault gv-2.0.9.23": 30,
   "skitzellez/XBSX2-GameVault gv-2.0.9.6": 4,
   "skitzellez/XBSX2-GameVault gv-2.0.9.7": 40,
   "skitzellez/XBSX2-GameVault gv-2.0.9.8": 63,
@@ -206,6 +206,7 @@
   "skitzellez/xbox-game-vault v0.16.1.1483": 4,
   "skitzellez/xbox-game-vault v0.16.1.150": 1,
   "skitzellez/xbox-game-vault v0.16.1.151": 2,
+  "skitzellez/xbox-game-vault v0.16.1.1524": 0,
   "skitzellez/xbox-game-vault v0.16.1.153": 3,
   "skitzellez/xbox-game-vault v0.16.1.154": 9,
   "skitzellez/xbox-game-vault v0.16.1.160": 17,
@@ -384,8 +385,8 @@
   "skitzellez/xemu-uwp uwp-top-0.9.1018.96": 0
  },
  "totals": {
-  "all": 9210,
-  "emulators": 5785,
+  "all": 9216,
+  "emulators": 5791,
   "gamevault": 3425
  }
 }
