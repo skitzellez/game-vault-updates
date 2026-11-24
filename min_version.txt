@@ -1,6 +1,6 @@
 Game Vault reads this file when it starts. First number: the lowest version that still starts (raised only for a serious problem). Second number: the newest release (shows a notice only, blocks nothing). Then the newest xemu, RetroArch and XBSX2 builds (offered on the RT update screen). latest_android: the newest Game Vault for Android, latest_retroarch_android: the newest RetroArch for Game Vault for Android, latest_xbox_android: the newest X1 BOX for Game Vault, latest_ios: the newest Game Vault for iPhone (notices only; the player taps to install). major= / major_<emulator>=: the newest BIG release (Game Vault 0.16.1.141+ pops up a notice only when this is newer than what is installed; smaller releases show only the RT badge). major_note= (major_note_pt/es/fr/de/it=): one line in that notice about what the big release brings. top= / top_url= / top_size= / top_sha256= / top_sig= / top_base=: the newest Game Vault top layer (0.16.1.844+ download it by themselves and start it the next time they open; signed, see layers in the source).
 min=0.16.1.169
-latest=0.16.1.1460
+latest=0.16.1.1464
 latest_xemu=0.9.1018.65
 latest_retroarch=1.22.2.145
 latest_xbsx2=2.0.9.23
@@ -45,9 +45,9 @@ dolphin_top_url=https://github.com/skitzellez/Dolphin-GameVault/releases/downloa
 dolphin_top_size=14282240
 dolphin_top_sha256=b2bb8a27fd9f122d135270ff6a02ebd04c2cc3eca6c94b582fde67ef8a22fb4b
 dolphin_top_sig=7d9accbb29bf6d13789c874d0111ec666a4aa0dc81fea24011505d837a96860cf81f3cf15316066e5ae7194d455d2cf695218d9b2a1f6d9ab3949e79196a3ad4
-top=0.16.1.1460
+top=0.16.1.1464
 top_base=2
-top_url=https://github.com/skitzellez/xbox-game-vault/releases/download/v0.16.1.1460/GameVaultTop-0.16.1.1460.bin
-top_size=11978752
-top_sha256=f7d0b42653c16f2bf57d607f93288c6341231d74686d08abdfb721fcef0f4982
-top_sig=556686e317b88b9ff1101a9d337ef7776282bfdde8f3978a91c246b58a81e05dc013e4425b66cb422a67d900be4307d34750204ec10286c002b4233132584db3
+top_url=https://github.com/skitzellez/xbox-game-vault/releases/download/v0.16.1.1464/GameVaultTop-0.16.1.1464.bin
+top_size=11994112
+top_sha256=eb6bb920423ded6784f24c1d5060d1ea1da6b0187083e9397a97c9d97c6587c7
+top_sig=40e83360a6c9bb3b0252f976dcd25606aa3859447c656111694b0da340b4dbdaeba286e9584b3b8e0f217afe2c7246cb321bdec66204059a0e5f81e9fe874ccc
