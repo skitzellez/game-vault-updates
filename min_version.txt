@@ -1,6 +1,6 @@
 Game Vault reads this file when it starts. First number: the lowest version that still starts (raised only for a serious problem). Second number: the newest release (shows a notice only, blocks nothing). Then the newest xemu, RetroArch and XBSX2 builds (offered on the RT update screen). latest_android: the newest Game Vault for Android, latest_retroarch_android: the newest RetroArch for Game Vault for Android, latest_xbox_android: the newest X1 BOX for Game Vault, latest_ios: the newest Game Vault for iPhone (notices only; the player taps to install). major= / major_<emulator>=: the newest BIG release (Game Vault 0.16.1.141+ pops up a notice only when this is newer than what is installed; smaller releases show only the RT badge). major_note= (major_note_pt/es/fr/de/it=): one line in that notice about what the big release brings. top= / top_url= / top_size= / top_sha256= / top_sig= / top_base=: the newest Game Vault top layer (0.16.1.844+ download it by themselves and start it the next time they open; signed, see layers in the source).
 min=0.16.1.169
-latest=0.16.1.1740
+latest=0.16.1.1746
 latest_xemu=0.9.1018.65
 latest_retroarch=1.22.2.153
 latest_xbsx2=2.0.9.23
@@ -55,9 +55,9 @@ xemu_top_url=https://github.com/skitzellez/xemu-uwp/releases/download/uwp-top-0.
 xemu_top_size=20354560
 xemu_top_sha256=7b79f6b1b8ad5e7bffa5ceaee609565085a8f641b119e290adceacea6c1fab75
 xemu_top_sig=1f7365bc0406d95bc3e0c090ee74655aba91d7463645485d10e5c9c89570329f7f12a05f77a709ed4aaa93a6ebfd6f6346efc89420db8cbbbb5532d8a8a3b8f7
-top=0.16.1.1740
+top=0.16.1.1746
 top_base=2
-top_url=https://github.com/skitzellez/xbox-game-vault/releases/download/v0.16.1.1740/GameVaultTop-0.16.1.1740.bin
-top_size=13131264
-top_sha256=23a960e81336deba488dca4cadbfa4d439c107a10576ccc8dd4cba42d93e288d
-top_sig=1bdc39b14e5c1b1b9a38b0b2f36c6e8141f67093c9881ea627dc49fdc36db8306b708d3b58c29bd3860eab87859974d318c3d91deee42d494cdcbfed07b869e8
+top_url=https://github.com/skitzellez/xbox-game-vault/releases/download/v0.16.1.1746/GameVaultTop-0.16.1.1746.bin
+top_size=13148672
+top_sha256=4cef50c1622e26a2fe5b4e0c72d2cbe7d37dad799e9d56452e5e56494c20402e
+top_sig=990aa66925d8ca64a86b11c113b4aa3fe0710a42fa1ecd0b2bf1e66880f299ea88cf554e631e70052266ea3076ee3644d60665287fda2addb0eb223a560d99c8
