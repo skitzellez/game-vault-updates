@@ -22,7 +22,7 @@
   "skitzellez/Dolphin-GameVault gv-1.1.9.129": 146,
   "skitzellez/Dolphin-GameVault gv-1.1.9.137": 19,
   "skitzellez/Dolphin-GameVault gv-1.1.9.139": 94,
-  "skitzellez/Dolphin-GameVault gv-1.1.9.140": 39,
+  "skitzellez/Dolphin-GameVault gv-1.1.9.140": 40,
   "skitzellez/Dolphin-GameVault gv-top-1.1.9.139": 0,
   "skitzellez/Dolphin-GameVault gv-top-1.1.9.140": 0,
   "skitzellez/Dolphin-GameVault test-1.1.9.140": 2,
@@ -49,7 +49,7 @@
   "skitzellez/RetroArch-GameVault gv-1.22.2.145": 156,
   "skitzellez/RetroArch-GameVault gv-1.22.2.151": 18,
   "skitzellez/RetroArch-GameVault gv-1.22.2.152": 56,
-  "skitzellez/RetroArch-GameVault gv-1.22.2.153": 67,
+  "skitzellez/RetroArch-GameVault gv-1.22.2.153": 68,
   "skitzellez/RetroArch-GameVault gv-1.22.2.18": 40,
   "skitzellez/RetroArch-GameVault gv-1.22.2.21": 42,
   "skitzellez/RetroArch-GameVault gv-1.22.2.29": 17,
@@ -165,7 +165,7 @@
   "skitzellez/game-vault-android android-0.5.1": 0,
   "skitzellez/game-vault-android test-ps2-0.4.1": 0,
   "skitzellez/xbox-game-vault mac-setup-beta-1": 29,
-  "skitzellez/xbox-game-vault runtime-vclibs": 628,
+  "skitzellez/xbox-game-vault runtime-vclibs": 629,
   "skitzellez/xbox-game-vault test-0.16.1.347": 3,
   "skitzellez/xbox-game-vault test-0.16.1.416": 4,
   "skitzellez/xbox-game-vault test-0.16.1.419": 4,
@@ -240,6 +240,7 @@
   "skitzellez/xbox-game-vault v0.16.1.1682": 22,
   "skitzellez/xbox-game-vault v0.16.1.169": 36,
   "skitzellez/xbox-game-vault v0.16.1.1700": 0,
+  "skitzellez/xbox-game-vault v0.16.1.1702": 0,
   "skitzellez/xbox-game-vault v0.16.1.176": 52,
   "skitzellez/xbox-game-vault v0.16.1.177": 2,
   "skitzellez/xbox-game-vault v0.16.1.178": 39,
@@ -415,8 +416,8 @@
   "skitzellez/xemu-uwp uwp-top-0.9.1018.96": 0
  },
  "totals": {
-  "all": 10422,
-  "emulators": 6521,
-  "gamevault": 3901
+  "all": 10425,
+  "emulators": 6523,
+  "gamevault": 3902
  }
 }
