@@ -141,7 +141,7 @@
   "skitzellez/Xenia-GameVault gv-1.1.8.5": 30,
   "skitzellez/Xenia-GameVault gv-1.1.8.500": 29,
   "skitzellez/Xenia-GameVault gv-1.1.8.501": 10,
-  "skitzellez/Xenia-GameVault gv-1.1.8.502": 52,
+  "skitzellez/Xenia-GameVault gv-1.1.8.502": 53,
   "skitzellez/Xenia-GameVault gv-1.1.8.66": 16,
   "skitzellez/Xenia-GameVault test-1.1.8.235": 4,
   "skitzellez/Xenia-GameVault test-1.1.8.240": 4,
@@ -165,7 +165,7 @@
   "skitzellez/game-vault-android android-0.5.1": 0,
   "skitzellez/game-vault-android test-ps2-0.4.1": 0,
   "skitzellez/xbox-game-vault mac-setup-beta-1": 30,
-  "skitzellez/xbox-game-vault runtime-vclibs": 647,
+  "skitzellez/xbox-game-vault runtime-vclibs": 648,
   "skitzellez/xbox-game-vault test-0.16.1.347": 3,
   "skitzellez/xbox-game-vault test-0.16.1.416": 4,
   "skitzellez/xbox-game-vault test-0.16.1.419": 4,
@@ -241,7 +241,8 @@
   "skitzellez/xbox-game-vault v0.16.1.169": 36,
   "skitzellez/xbox-game-vault v0.16.1.1700": 4,
   "skitzellez/xbox-game-vault v0.16.1.1702": 48,
-  "skitzellez/xbox-game-vault v0.16.1.1704": 0,
+  "skitzellez/xbox-game-vault v0.16.1.1704": 9,
+  "skitzellez/xbox-game-vault v0.16.1.1705": 0,
   "skitzellez/xbox-game-vault v0.16.1.176": 52,
   "skitzellez/xbox-game-vault v0.16.1.177": 2,
   "skitzellez/xbox-game-vault v0.16.1.178": 39,
@@ -417,8 +418,8 @@
   "skitzellez/xemu-uwp uwp-top-0.9.1018.96": 0
  },
  "totals": {
-  "all": 10627,
-  "emulators": 6654,
-  "gamevault": 3973
+  "all": 10638,
+  "emulators": 6655,
+  "gamevault": 3983
  }
 }
