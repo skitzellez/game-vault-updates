@@ -1,0 +1,2 @@
+# Game Vault data fixes (see main.cpp VaultData). One fix per line.
+name X360:SE-2124 Cyber Troopers Virtual-On Force
